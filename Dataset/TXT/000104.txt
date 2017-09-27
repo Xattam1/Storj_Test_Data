@@ -1,0 +1,2768 @@
+Instruction manual, part 3b: 
+CLASSIFICATION AND CODING INSTRUCTIONS FOR FETAL DEATH RECORDS,
+1999-2001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________________________________________
+
+This instruction manual was prepared by the Division of Vital Statistics.  Questions
+regarding this manual and other related Vital Statistics Cooperative Program activities should
+be directed to the Data Acquisition and Evaluation Branch, Division of Vital Statistics,
+National Center for Health Statistics, P.O. Box 12214, Research Triangle Park,
+North Carolina 27709.  Questions concerning analysis of Fetal Death data should be referred
+to the Reproductive Statistics Branch, Division of Vital Statistics, National Center for Health
+Statistics, 6525 Belcrest Road, Presidential Building, Room 820, Hyattsville,
+Maryland 20782.
+
+                                CONTENTS
+
+                                                                     Page
+Section I - Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+
+Section II - General Procedures for Electronic Files . . . . . . . . . . . . 1
+     Receipts  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 1
+     Processing. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 2
+
+Section III - File Layout and Coding Instructions. . . . . . . . . . . . . . 2
+      1999-2001 NCHS Fetal Death File Layout . . . . . . . . . . . . . . . . 3
+     Shipment Number . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+     State File Number . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+     Facility  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 4
+     Place of Delivery - State - County. . . . . . . . . . . . . . . . . . . 5
+     Date of Delivery  . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+     Sex . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+     Mother's Date of Birth  . . . . . . . . . . . . . . . . . . . . . . . . 6
+     Residence of Mother . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+     Father's Date of Birth. . . . . . . . . . . . . . . . . . . . . . . . .14
+     Hispanic Origin - Mother - Father . . . . . . . . . . . . . . . . . . .14
+     Race - Mother - Father  . . . . . . . . . . . . . . . . . . . . . . .  17
+     Education - Mother - Father . . . . . . . . . . . . . . . . . . . . . .19
+     Pregnancy History . . . . . . . . . . . . . . . . . . . . . . . . . .  21
+     Date of Last Live Birth . . . . . . . . . . . . . . . . . . . . . . . .22
+     Mother Married? . . . . . . . . . . . . . . . . . . . . . . . . . . . .22
+     Date Last Normal Menses Began . . . . . . . . . . . . . . . . . . . . .23
+     Month of Pregnancy Prenatal Care Began  . . . . . . . . . . . . . . . .24
+     Prenatal Visits . . . . . . . . . . . . . . . . . . . . . . . . . . . .25
+     Weight of Fetus . . . . . . . . . . . . . . . . . . . . . . . . . . . .25
+     Clinical Estimate of Gestation  . . . . . . . . . . . . . . . . . . . .26
+     Plurality . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .27
+     Medical Risk Factors for This Pregnancy . . . . . . . . . . . . . . . .28
+     Other Risk Factors for This Pregnancy . . . . . . . . . . . . . . . . .29
+     Obstetric Procedures. . . . . . . . . . . . . . . . . . . . . . . . . .30
+     Complications of Labor and/or Delivery  . . . . . . . . . . . . . . . .31
+     Method of Delivery  . . . . . . . . . . . . . . . . . . . . . . . . . .32
+     Congenital Anomalies. . . . . . . . . . . . . . . . . . . . . . . . . .33
+    
+
+
+
+
+     Underlying Cause of Death   . . . . . . . . . . . . . . . . . . . . . .34
+     Attendant . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .34
+     Age - Mother - Father . . . . . . . . . . . . . . . . . . . . . . . . .35
+
+Appendix A - Geographic Codes for State of Delivery and Residence. . . . . .36
+Appendix B - Interpretations of Atlas Notations  . . . . . . . . . . . . . .38
+Appendix C - Largest City and Code by State of Residence . . . . . . . . . .39
+Appendix D - Other Entries Reported on Records and Code for Race . . . . . .41
+Appendix E - Indian Tribes in the United States, Canada, and Mexico. . . . .46
+Appendix F - Other Entries Reported on Records and Codes for Education
+                       of Mother and Father. . . . . . . . . . . . . . . . .50
+Appendix G - Other Entries Reported on Records and Code 
+                       for Hispanic Origin . . . . . . . . . . . . . . . . .51
+Appendix H - Terms Indicating Induced Abortions. . . . . . . . . . . . . . .52
+
+Illustration I - Report of Fetal Death . . . . . . . . . . . . . . . . . . .54
+Vital Statistics Instruction Manuals . . . . . . . . . . . . . . . . . . . .55
+
+
+
+
+
+
+
+
+
+               CLASSIFICATION AND CODING INSTRUCTIONS
+                 FOR FETAL DEATH RECORDS, 1999-2001
+
+
+
+
+Section I - Introduction
+
+     This manual documents specifications for coding and key entry of statistical items that will
+be tabulated from the fetal death report by the National Center for Health Statistics (NCHS). 
+Primarily, these specifications are used by 49 registration areas of the United States (45 states,
+District of Columbia, New York City, Puerto Rico and The Virgin Islands) that submit data to
+NCHS in electronic form through the Vital Statistics Cooperative Program (VSCP).  Under the
+terms of the VSCP contracts with NCHS, the registration area must incorporate NCHS
+specifications into their own procedures so that the resultant data files meet the needs of both
+NCHS and the registration area.  Changes effective with 1999 are in bold print.
+
+
+Section II - General Procedures for Electronic Files
+
+     A.   Receipts
+
+                    All registration areas except Arizona, California, Nevada, Ohio, Wyoming, and
+          Guam provide coded data to NCHS in electronic form (tapes, diskettes and PC to
+          PC).  These files include all of the fetal death events registered within their
+          jurisdiction for each calendar year.  In general, data are transmitted on a monthly
+          basis.  Transmittals take place at regular intervals and contain any and all records
+          received and initially processed in the state office since the last transmittal to NCHS
+          regardless of the month of the occurrence of the event.  A record need not be
+          "perfect" to qualify for transmittal.  Each regular data transmittal shall contain all
+          replacement records processed to date incorporating updated information from any
+          source.  For purposes of full utilization and release of the data, states are expected
+          to transmit the majority of records within six months of occurrence and a complete
+          and final version of all records by July 31.
+
+
+
+     B.   Processing
+
+                         As the files are received at NCHS-RTP, they are automatically checked for
+          completeness, individual item code validity, and unacceptable inconsistencies
+          between data items.  The registration area is notified of any problems.  In addition,
+          NCHS staff review the files on an ongoing basis to detect problems in overall
+          quality such as inadequate reporting for certain items, failure to follow NCHS
+          coding rules, and systems and software errors.  Traditionally, quality assurance
+          procedures have been limited to review and analysis of differences between the
+          NCHS and registration area code assignments for a small number of records.  In
+          recent years, this procedures has been augmented by analyses of year to year and
+          area to area variations in the data.  These analyses are based on preliminary
+          tabulations of the data that are cumulated on a year to date basis each month.  All
+          differences that are judged to have consequences for quality and completeness are
+          investigated by NCHS.  In the review process, statistical tests are used to call
+          initial attention to differences for possible follow-up.  As necessary, registration
+          areas are informed of differences encountered in the tables and asked to verify the
+          counts or to determine the nature of the differences.  Missing records (except those
+          permanently voided) and other problems detected by NCHS should be resolved and
+          corrections transmitted to NCHS in the same manner as for those corrections
+          identified by the registration area.
+
+Section III -File Layout and Coding Instructions
+
+     This section provides the code structure, coding instructions, and output file locations for
+each item in the national data set.
+  
+Changes were made to the following items effective in 1999 to expand all year fields to four digits:
+
+Date of Delivery
+Mother's Date of Birth
+Father's Date of Birth
+Date of Last Live Birth
+Date Last Normal Menses Began
+
+Note: The old locations for these years have been converted to "Filler" and should be blank.
+
+
+
+1999-2001 Fetal Death File Layout
+
+Items                               File   Items                                File 
+                                 Location                                    Location
+
+Shipment No.                     1 - 2     Date Last Normal Menses Began
+Certificate No.                  3 - 8     Month57 - 58
+Facility                         9         Day 59 - 60
+Geographic Place of Delivery               Filler61
+   State                         10 - 11   Mon. Of Preg. Prenatal Care62
+   County                        12 - 14   Named Month63 - 64
+Date of Delivery                           Prenatal Visits (Total No.)65 - 66
+   Month                         15 - 16   Weight of Fetus
+   Day                           17 - 18   Units67
+Filler                           19        Grams or Pounds/ounces68 - 71
+Sex                              20        Clinic Est. Gestation (Wks)72 - 73
+Mother's Date of Birth                     Plurality74
+   Month                         21 - 22   Med. Risk Factors For Preg.75 - 92
+   Day                           23 - 24   Filler 93 - 108
+Filler                           25 - 26   Other Risk Factors For Preg.
+Residence of Mother                        Tobacco Use109
+   State                         27 - 28   Aver. No. Cigar. Day 110 - 111
+   County or City                29 - 31   Alcohol Use  112
+Father's Date of Birth                     Aver. No. Drinks Week113 - 114
+   Month                         32 - 33   Weight Gain During Preg.115 - 116
+   Day                           34 - 35   Obstetric Procedures117 - 124
+Filler                           36 - 37   Filler125 - 130
+Hispanic Origin                            Comp. Of Labor/delivery131 - 147
+   Mother                        38        Filler148 - 162
+   Father                        39        Method of Delivery163 - 170
+Race  Filler                     171 - 176
+   Mother                        40        Congenital Anomalies177 - 199
+   Father                        41        Date of Delivery Year200 - 203
+Education                                  Mother's Date of Birth Year204 - 207
+   Mother                        42 - 43   Father's Date of Birth  Year208 - 211
+   Father                        44 - 45   Date of Last Live Birth Year212 - 215
+Pregnancy History                          Date Last Normal Menses216 - 219
+   Live Births - Now Living      46 - 47   Began Year 
+   Live Births - Now Dead        48 - 49   Filler  220
+   No. Other Terminations        50 - 51   Underlying Cause of Death221 - 224
+Date of Last Live Birth                    Attendant 225
+   Month                         52 - 53   Age 
+Filler                           54 - 55   Mother 226 - 227
+Mother Married?                  56        Father228 - 229
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+SHIPMENT              1-2                                      For NCHS use only. State is
+NUMBER                                                         to leave blank.
+
+STATE FILE            3-8                                      Left zero fill.
+NUMBER
+                                                               If the name of a hospital,
+FACILITY               9       Hospital Deliveries             institution,  "medical center,"
+                               (Hospital, institution,         or "maternity home" is
+                               medical center, nursing         reported, code 1.
+                               home, maternity home) . . . 1
+                                                               For other medical facilities
+                               Non-Hospital Deliveries         such as "infirmaries,
+                                                               "manors," "facilities,"
+                               (Named places, Dr.'s office,    "dispensaries,""nursing
+                               mother's residence, street      home,"  etc., code 1.
+                               address, non-hospital 
+                               clinic. . . . . . . . . . . 2   A hospital or institution
+                               Delivery enroute to or          clinic is considered part of
+                               upon arrival at hospital. . 3   the hospital or institution,
+                                                               code 1.  Non-hospital clinics
+                               Not Classifiable. . . . . . 9   and other
+                                                               non-hospital outpatient
+                                                               facilities, code 2.
+
+                                                               If a named place other than a
+                                                               hospital, institution,
+                                                               maternity home or medical
+                                                               center  is reported (for
+                                                               example, a doctor's office,
+                                                               fire department, public
+                                                               places), code 2.
+
+                                                               If street address is reported
+                                                               other than one of a hospital,
+                                                               code 2.
+
+                                                               If an entry of "Delivered at
+                                                               Home" or "At home" is
+                                                               reported, code 2.
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+GEOGRAPHIC
+PLACE OF
+DELIVERY
+
+  STATE             10-11      Refer to Appendix A             Enter appropriate code.
+
+  COUNTY            12-14      Refer to Part 8 Instruction
+                               Manual, Vital Records
+                               Geographic Classification,
+                               1995.  Use code designated
+                               for "Balance of County" or
+                               "Entire County."  Code
+                               given for co-extensive or
+                               independent cities is to be
+                               used as county code.
+
+DATE OF
+DELIVERY
+
+  Month             15-16      January. . . . . . . . . .01
+                               February . . . . . . . . .02
+                               March. . . . . . . . . . .03
+                               April. . . . . . . . . . .04
+                               May. . . . . . . . . . . .05
+                               June . . . . . . . . . . .06
+                               July . . . . . . . . . . .07
+                               August . . . . . . . . . .08
+                               September. . . . . . . . .09
+                               October. . . . . . . . . .10
+                               November . . . . . . . . .11
+                               December . . . . . . . . .12
+                               Not Classifiable . . . . .99
+
+  Day               17-18      01-31
+                               Not Classifiable . . . . .99
+
+
+  Year             200-203     Enter four digit year.          Year must be reported.
+
+Filler               19        Blank
+
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+SEX                   20       Male . . . . .  . . . . . .1    Code 9 for entry of
+                               Female . . . . . . . . . . 2    "undeterminable."
+                               Not Classifiable . . . . . 9
+
+
+MOTHER'S
+DATE OF
+BIRTH
+
+  Month              21-22     January. . . . . . . . . .01    Code as reported.
+                               February . . . . . . . . .02
+                               March. . . . . . . . . . .03    If any part of the date is not
+                               April. . . . . . . . . . .04    reported, code only the
+                               May. . . . . . . . . . . .05    missing component Not
+                               June . . . . . . . . . . .06    Classifiable.
+                               July . . . . . . . . . . .07
+                               August . . . . . . . . . .08
+                               September. . . . . . . . .09
+                               October. . . . . . . . . .10
+                               November . . . . . . . . .11
+                               December . . . . . . . . .12
+                               Not Classifiable . . . . .99
+
+  Day                23-24     01-31
+                               Not Classifiable . . . . .99
+
+  Year              204-207    Enter four digit year.  
+                               Not Classifiable . . . .9999
+
+Filler               25-26     Blank
+
+RESIDENCE
+OF MOTHER
+
+  State              27-28     Refer to Appendix A             Enter appropriate code.
+
+  County or          29-31     Refer to Part 8 Instruction     Rules for use of coding table
+  City                         Manual, Vital Records           (pages 10-13)for Place of
+                               Geographic Classification,      Residence of Mother.
+                               1995. (Use Section II only
+                               when certificate contains no    Apply rules in sequential
+                               county entry.)                  order.
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+RESIDENCE                                                      If "rural" is entered, code by
+OF MOTHER -                                                    line 2 of table and stop.
+Cont.
+                                                               If "rural" is not entered, find
+                                                               line item that fits reporting
+                                                               on certificate and heading
+                                                               that describes reporting in
+                                                               "City Limits Item." Code
+                                                               according to instructions
+                                                               given when horizontal line
+                                                               and vertical column intersect. 
+
+                                                               Example
+                                                               City but no county entry and
+                                                               outside of city limits.
+
+                                                               Select line 6A and
+                                                               column (b). Instruction
+                                                               where these intersect is to
+                                                               code "Balance of County 1/."
+
+                                                               Additional instructions:
+
+                                                               Disregard the name of a
+                                                               state, county, or city entered
+                                                               on the address line when an
+                                                               entry is reported in the space
+                                                               provided for these items.
+
+                                                               When the state, county or
+                                                               city entry has obviously been
+                                                               typed on the incorrect line,
+                                                               consider the entry when
+                                                               classifying residence.
+
+                                                               If a city entry is reported
+                                                               with North, East, South, or
+                                                               West, check the atlas to
+                                                               determine if it is a separate
+                                                               geographic place or an
+                                                               inclusion of the named city. 
+
+
+
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+RESIDENCE                                                      If the named place is not
+OF MOTHER -                                                    listed in the atlas, consider
+Cont.                                                          the entry to be an inclusion
+                                                               of the city named (e.g., East
+                                                               Durham is not listed in the
+                                                               atlas, and, therefore, is
+                                                               considered to be an inclusion
+                                                               of the city of Durham).
+
+                                                               If county is reported and two
+                                                               cities are reported on the city
+                                                               line, check atlas to determine
+                                                               if one is an inclusion.  If not,
+                                                               code to city with the larger
+                                                               population.
+
+                                                               If no county entry is reported
+                                                               and the city
+                                                               is not listed in the Part 8
+                                                               Instruction Manual, Vital
+                                                               Records Geographic Classi-
+                                                               fication, 1995, Section II,
+                                                               refer to the atlas to
+                                                               determine county.  If atlas
+                                                               indicates city is listed in two
+                                                               counties, refer to the U.S.
+                                                               Census Population 1990,
+                                                               "Number of Inhabitants" and
+                                                               code to the county contain-
+                                                               ing the largest part of the 
+                                                               city's population. 
+
+                                                               If New York City is reported
+                                                               as place of residence and no
+                                                               borough is reported, code to
+                                                               Manhattan Borough.
+
+
+
+
+
+CODING RULES TABLE FOR PLACE OF RESIDENCE OF MOTHER
+                                                                                                                                                                  
+                                     (a)                      (b)
+                               Inside City Limits      Inside City Limits
+                                     No                       Yes
+
+_____________________________________________________________________________________
+   1. Blank                 County/City of delivery 2/   County/City of delivery 2/
+_____________________________________________________________________________________
+   2. "Rural" entry         Balance of County       Balance of County
+_____________________________________________________________________________________
+   3. City listed in Geographic City                     Balance of County
+      Code Manual (includes
+      independent and coextensive
+      cities.)
+______________________________________________________________________________________
+   4. City not listed in     Balance of County       Balance of county
+      Geographic Code Manual
+______________________________________________________________________________________
+   5. County, but no city entry Balance of County        Balance of County
+______________________________________________________________________________________
+   6. State and city but no county
+      entry and State is same as 
+      State of Occurrence.
+
+   A.  City listed in                   City            Balance of County 1/
+       Geographic Code Manual
+______________________________________________________________________________________
+   B.  City not listed in    Balance of County 1/     Balance of County 1/
+       Geographic Code Manual.
+______________________________________________________________________________________
+   C.  Atlas gives 2 or more County of delivery  County of delivery
+       cities by same name in
+       different counties
+______________________________________________________________________________________
+   D.  City not in atlas County/City of delivery 2/   County/City of delivery 2/
+______________________________________________________________________________________
+   7. State and city, but no county
+      entry and State is different
+      from State of Occurrence
+
+   A.  City listed in    City                         Balance of County 1/
+          Geographic Code Manual
+______________________________________________________________________________________
+   1/ Use atlas and other reference aids to establish county and/or population.  See Appendix B for rules on
+   interpreting atlas notations.
+
+      If independent city or coextensive, use Section II, Part 8, Instruction Manual,Vital Records Geographic
+   Classification, 1995.
+
+
+
+CODING RULES TABLE FOR PLACE OF RESIDENCE OF MOTHER - continued
+                                                                                                                                                                     
+                           (c)                                     (d)
+                 Inside City Limits Item                   Inside City Limits Item                       
+           Not reported or item not on certificate     Not reported or item not on certificate
+               but street address reported               and no street address reported
+_______________________________________________________________________________________
+                    County/City of delivery 2/              County/City of delivery 2/
+_______________________________________________________________________________________
+                    Balance of County                          Balance of County
+_______________________________________________________________________________________
+                                                     Balance of County if indicated as "rural,"         City
+  "RFD," "star route," "rural delivery."
+  All others, code to City.
+
+_______________________________________________________________________________________
+                    Balance of County                          Balance of County
+
+_______________________________________________________________________________________
+                    Balance of County                          Balance of County
+_______________________________________________________________________________________
+  Balance of County 1/ if indicated as "rural,"                       City
+  "RFD," "star route," "rural delivery."  
+  All others, code to City.
+
+
+
+_______________________________________________________________________________________
+                  Balance of County 1/                               Balance of County 1/
+
+_______________________________________________________________________________________
+                  County of delivery                                 County of delivery
+
+
+_______________________________________________________________________________________
+               County/City of delivery 2/                         County/City of delivery 2/
+_______________________________________________________________________________________
+  Balance of County 1/ if indicated as                                 City
+  "rural," "RFD," "star route," "rural 
+  delivery."  All others, code to City.
+
+
+
+_______________________________________________________________________________________
+
+2/   Use same rules as coding city and county of residence.
+
+
+
+
+
+CODING RULES TABLE FOR PLACE OF RESIDENCE OF MOTHER - continued
+                                                                                                                                                                       
+                                       (a)                    (b)
+                                Inside City Limits      Inside City Limits
+                                       Yes                    No
+
+_______________________________________________________________________________________
+   7. (Continued)
+
+       B.  City not listed in   Balance of County 1/    Balance of County 1/
+           Geographic Code Manual
+_______________________________________________________________________________________
+       C.  Atlas gives 2 or more   City with largest   City with largest
+           cities by same name in      population          population
+           different counties
+_______________________________________________________________________________________
+       D.  City not in atlas   Largest City of State   Largest City of State
+                                of Residence 3/         of Residence 3/
+_______________________________________________________________________________________
+   8.  State only specified with County/City of delivery 2/ County/City of delivery 2/
+       no city or county entry  
+       and State is same as 
+       State of Occurrence
+_______________________________________________________________________________________
+   9.  State only specified with  Largest City of State     Largest City of State
+       no city or county entry        of Residence 3/        of Residence 3/
+       and State is different 
+        from State of Occurrence
+_______________________________________________________________________________________
+10. A.  Foreign Country -   Code in data positions 27-28.  (Leave data positions 
+                            29-31 blank.)
+      55 Canada
+      56 Cuba
+      57 Mexico
+      59 Remainder of World
+
+       B.  U.S. Possessions -  Code in data positions 27-28.  (Leave data positions 
+                               29-31 blank.)
+      52 Puerto Rico
+      53 Virgin Islands
+      54 Guam
+_______________________________________________________________________________________
+11. Two State entries       County/City of delivery 2/   County/City of delivery 2/
+_______________________________________________________________________________________
+12. City and County entry but  County/City of delivery 2/    County/City of delivery 2/
+      no State entry
+_______________________________________________________________________________________
+   1/ Use atlas or other reference aids to establish county and/or population.  Refer to  Appendix B for rules on
+   interpreting atlas notation.  
+
+      If independent city or coextensive, use Section II, Part 8, Instruction Manual,Vital Records Geographic
+   Classification, 1995.
+
+
+
+
+CODING RULES TABLE FOR PLACE OF RESIDENCE OF MOTHER - continued
+                                                                                                                                                         
+          (c)                                               (d)
+ Inside City Limits Item                        Inside City Limits Item
+Not reported or item not on certificate      Not reported or item not on certificate
+   but street address reported               and no street address reported
+_____________________________________________________________________________________
+      Balance of County 1/                        Balance of County 1/
+
+
+
+_____________________________________________________________________________________
+     City with largest population                City with largest population
+
+
+_____________________________________________________________________________________
+      Largest City of State of                    Largest City of State of
+            Residence 3/                               Residence 3/
+_____________________________________________________________________________________
+     County/City of delivery 2/                   County/City of delivery 2/
+
+
+
+_____________________________________________________________________________________
+     Largest City of State of                    Largest City of State of 
+           Residence 3/                        Residence 3/
+
+
+___________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+___________________________________________________________________________________
+     County/City of delivery 2/                   County/City of delivery 2/
+___________________________________________________________________________________
+     County/City of delivery 2/                   County/City of delivery 2/
+
+_____________________________________________________________________________________
+
+2/  Use same rules as coding city and county of residence.
+
+3/  See Appendix C for city.
+
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+FATHER'S
+DATE OF
+BIRTH
+
+  Month             32-33      January. . . . . . . . . . .01  Code as reported.
+                               February . . . . . . . . . .02
+                               March. . . . . . . . . . . .03  If any part of the date is not
+                               April. . . . . . . . . . . .04  reported, code only the missing
+                               May. . . . . . . . . . . . .05  component Not Classifiable.
+                               June . . . . . . . . . . . .06
+                               July . . . . . . . . . . . .07
+                               August . . . . . . . . . . .08
+                               September. . . . . . . . . .09
+                               October. . . . . . . . . . .10
+                               November . . . . . . . . . .11
+                               December . . . . . . . . . .12
+                               Not Classifiable . . . . . .99
+
+  Day               34-35      01-31
+                               Not Classifiable . . . . . .99
+
+  Year             208-211     Enter four digit year.
+                               Not Classifiable . . . . .9999
+
+Filler              36-37      Blank
+
+HISPANIC                                                        When there is neither a "Hispanic
+ORIGIN                                                          Item" nor an "Ancestry Item" on the
+                                                                certificate then code 9.
+  Mother             38        Non-Hispanic . . . . . . . . 0
+                               Mexican. . . . . . . . . . . 1   Refer to Appendix G for additional
+  Father             39        Puerto Rican . . . . . . . . 2   Hispanic entries and codes as well as
+                               Cuban. . . . . . . . . . . . 3   specific entries for categories 4
+                               Central or South                 and 5.
+                               American (Spanish speaking
+                               countries                        For registration areas having the
+                               only). . . . . . . . . . . . 4   "Hispanic" item, follow instructions
+                               Other and unknown                1-8:
+                               Hispanic . . . . . . . . . . 5
+                               Not Classifiable . . . . . . 9   1. If "No" is reported with a
+                                                               specified Hispanic entry in
+                                                               Appendix G, code the entry.
+
+                                                               2. If "No" is reported with no
+                                                               specified Hispanic entry in
+                                                               Appendix G, code 0.
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+HISPANIC                                                       3. If "Yes" is reported with a
+ORIGIN                                                         specified Hispanic entry, assign the
+                                                               appropriate code of 1-5.
+  Mother
+                                                               4. If "Yes" is reported with no
+  Father                                                       specified Hispanic entry in
+                                                               Appendix G, and entries for race
+  - Cont.                                                      item are reported as Mexican,
+                                                               Cuban, or Puerto Rican or any other
+                                                               Hispanic entry in appendix G, assign
+                                                               the appropriate code of 1-5.
+
+                                                               5. If "Yes" is reported with no
+                                                               specified Hispanic entry in Appendix
+                                                               G, and there are no Hispanic entries
+                                                               in race item, as identified in 4 
+                                                               above, apply the following rules.  If
+                                                               birthplace is on the certificate, refer
+                                                               to birthplace.  If the birthplace
+                                                               identifies an entry in Appendix G,
+                                                               assign the appropriate code of 1-5. 
+                                                               If birthplace does not identify an
+                                                               entry in Appendix G, code 5.  If
+                                                               birthplace is not on the certificate,
+                                                               code 5.
+
+                                                               6. If more than one entry is reported
+                                                               code first-listed Hispanic entry, e.g.,
+                                                               for Mexican-Puerto Rican, code 1.
+
+                                                               7. If blank and entries for race item
+                                                               are reported as Mexican, Cuban, or
+                                                               Puerto Rican or any Hispanic entries
+                                                               in Appendix G, assign the
+                                                               appropriate code of 1-5.
+
+                                                               8. If blank and there are no Hispanic
+                                                               entries in race item, as identified in 7
+                                                               above, refer to birthplace.  If the
+                                                               birthplace is listed in appendix G,
+                                                               then assign the appropriate code of
+                                                               1-5.  Otherwise, code 9. 
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+HISPANIC
+ORIGIN                                                         For states having an "ancestry" item,
+                                                               follow instructions 9 - 12:
+   Mother 
+                                                               9.  For all entries shown in
+   Father -                                                    Appendix G, assign the appropriate
+Cont.                                                          code of 1-5.  For all other entries
+                                                               (including American), assign the
+                                                               code 0.
+
+                                                               10. If more than one entry is
+                                                               reported, code first listed Hispanic
+                                                               entry, e.g. for Mexican-Puerto
+                                                               Rican, code 1; for Irish-Cuban,
+                                                               code 3.
+ 
+                                                               11.  If the item is blank and entries
+                                                               for the race item are reported as
+                                                               Mexican, Cuban, or Puerto Rican or
+                                                               any Hispanic entry in Appendix G,
+                                                               assign the appropriate code of 1-5.
+
+                                                               12.  If blank and there are no
+                                                               Hispanic entries in the race item, as
+                                                               identified above, refer to birthplace. 
+                                                               If the birthplace is listed in
+                                                               Appendix G, assign the appropriate
+                                                               code of 1-5.  Otherwise, code 9.
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+RACE                           White                           The expanded Asian and Pacific
+                                 includes Mexican,             Islander categories of A, B, C, D,
+Mother                40         Puerto Rican, and             and E are applicable only for the
+                                 other Caucasian. . . . . . 1  following funded registration areas:
+Father                41                                       California, Hawaii, Illinois, New
+                               Black. . . . . . . . . . . . 2  Jersey, New York State, New York
+                                                               City, Texas and Washington.  The
+                               Indian                          remaining registration areas may
+                                 North American                choose to use the expanded
+                                 Central American              categories or continue coding Asian
+                                 South American                Indian, Korean, Samoan, Vietnamese
+                                 Eskimo                        and Guamian to 8.
+                                 Aleut. . . . . . . . . . . 3
+                                                               Refer to Appendix D for other
+                               Asian or Pacific Islander       reported race entries.
+                                 Chinese. . . . . . . . . . 4
+                                 Japanese . . . . . . . . . 5  Refer to Appendix E for names of
+                                 Hawaiian (includes            Indian tribes in the U.S., Canada,
+                                 part-Hawaiian) . . . . . . 6  and Mexico.
+                                 Filipino . . . . . . . . . 7
+                                 Other . . . . . . . . . . .8  1. If Hawaiian is reported with any
+                                 Asian Indian. . . . . . . .A  other race, code Hawaiian.
+                                 Korea . . . . . . . . . . .B
+                                 Samoan. . . . . . . . . . .C  2. If more than one race is reported
+                                 Vietnamese. . . . . . . . .D  (except Hawaiian), code the first
+                                 Guamian . . . . . . . . . .E  race listed.
+                                 Multi-racial . . . . . . . F
+                                                               3. If more than one race is reported
+                                 Other Entries. . . . . . . 0  with percentages or fractions given
+                                                               (except Hawaiian), code the race
+                                 Not Reported . . . . . . . 9  having the higher percentage or
+                                                               fraction.  If the percentages of
+                                                               fractions are equal, code the first
+                                                               race listed.
+
+                                                               4. If more than one race is reported
+                                                               with a hyphen but without
+                                                               percentages (except Hawaiian), code
+                                                               the first race listed.
+
+                                                               5. If entry is "Col.," "N,"  Negro,"
+                                                               "Color(ed)," "B," "Brown,"
+                                                               "A.A.""Afro-American," or African
+                                                               American," code 2 (Black).
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+RACE - Cont.                                                   6.  If the racial entry is "Asian,"
+                                                               "Yellow," "Oriental," or
+                                                               "Mongolian", and birthplace is given
+                                                               as China, Japan, the Phillippines,
+                                                               Hawaii, India, Korea, Vietnam,
+                                                               Samoa, or Guam, code to the
+                                                               appropriate group (code 4-7 or A-E
+                                                               if using the expanded code structure
+                                                               or code 4-8 if not using the
+                                                               expanded code structure).  If
+                                                               birthplace is not on the certificate or
+                                                               is not one of these places, code 8
+                                                               (other Asian or Pacific Islander).
+
+                                                               7.  If the racial entry is "Indian", and
+                                                               birthplace is not in North, Central, or
+                                                               South America (including Caribbean
+                                                               Islands) or birthplace is not on the
+                                                               certificate, code A (Asian Indian) if
+                                                               using the expanded code structure or
+                                                               code 8 (other Asian or Pacific
+                                                               Islander) if not using the expanded
+                                                               code structure.  
+
+                                                               8. If "part___," or "1/4, 1/2,
+                                                               3/4____" is given as a single race
+                                                               entry, disregard the prefix and code
+                                                               race as reported. 
+
+                                                               9. If a racial entry is reported that
+                                                               cannot be coded 1-8 or A - E,
+                                                               code 0 (Other Entries).
+
+                                                               10. If the item contains an entry of
+                                                               "?", "-", "Unknown" or is left blank,
+                                                               code 9 (Not Reported).
+
+                                                               11. Use code F for entries of "multi-
+                                                               racial," "biracial," "mixed," and
+                                                               other synonymous terms.  Do not
+                                                               use code F when multiple races are
+                                                               reported.  In such cases, apply rules
+                                                               2 through 4 above as applicable.
+
+                                                               Note: States not mandated by law to
+                                                               code multi-racial as a separate
+                                                               category may continue to code these
+                                                               entries as "0".
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+EDUCATION
+  Mother            42-43      Elementary or Secondary         See Appendix F for other entries on
+                                                               records.
+  Father            44-45      00-12
+                                                               1. Code the highest grade
+College                                                        completed.
+
+                               1 year . . . . . . . . . . .13  2. If two or more levels of education
+                               2 years. . . . . . . . . . .14  are reported for a parent, code the
+                               3 years . . . . . . . . . . 15  highest level classifiable to codes
+                               4 years. . . . . . . . . . .16  other than 99.
+                               5+ years . . . . . . . . . .17
+                               Not Classifiable . . . . . .99  Example:
+
+                                                               Elementary 
+                                                                   Or
+                                                               Secondary College      Code
+
+                                                               12        2 yrs. Tech    12
+                                                               Blank     2 yrs. Tech    99
+                                                               12        2 yrs.         14
+
+                                                               3. If the entry for college is reported
+                                                               as a partial year or indication that a
+                                                               full year has not been completed and
+                                                               no other entry is given (e.g., one
+                                                               semester, one quarter, two quarters,
+                                                               etc.), code 12.
+
+                                                               4.  If year is given with a fraction or
+                                                               symbol such as +, -, ?, etc., ignore
+                                                               fraction or other symbol and code
+                                                               year as stated.
+
+                                                               5. If two or three semesters, three or
+                                                               four quarters, or two or three
+                                                               trimesters is the only entry reported
+                                                               in the college block code 13.
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+EDUCATION                                                      6. If entry is reported as "ALL" in
+                                                               elementary/secondary block,
+  Mother                                                       code 12. If entry is reported as
+                                                               "ALL" in college block, code 16.
+  Father
+  - Cont.                                                      7. If entry in college block is "A.A."
+                                                               or "A.S.," code 14.
+
+                                                               8.  If entry in college block is
+                                                               "B.B.A.," "B.A.," "A.B.," or "B.S.,"
+                                                               code 16.
+
+                                                               9.  If entry in college block is
+                                                               "A.M.," "M.A.," "M.Sc.," "M.D.,"
+                                                               "D.V.M.," "D.D.S.," D.D.M.,"
+                                                               "D.O.," "L.L.B.," "Ph.D.," or other
+                                                               advanced degree, code 17.
+
+                                                               10.  When symbols such as "+," "-,"
+                                                               "?," "/," etc., are reported in either
+                                                               block and no other entry is reported,
+                                                               code 99.  If an entry is reported in
+                                                               either block with a symbol given in
+                                                               the other block, disregard symbol
+                                                               and code entry as stated.
+
+                                                               11.  If entry is R.N. or B.S. in
+                                                               Nursing, code as follows:
+
+                                                                R.N.. . . . . . . . . . . . . . . . . . . . . .14
+                                                               2 R.N. . . . . . . . . . . . . . . . . . . . . .14
+                                                               3 R.N. . . . . . . . . . . . . . . . . . . . . .15
+                                                               4 R.N. . . . . . . . . . . . . . . . . . . . . .16
+                                                               B.S. in Nursing. . . . . . . . . . . . . . . . .16
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+PREGNANCY
+HISTORY
+
+ Number of   
+ Live Births:
+
+   Now Living       46-47      Enter as stated.                 Code 99 for entries of "?,"
+                               "None," "N.A.," "-," "X," "0"    "Unknown," "Unk.," "#," and other
+                               . . . . . . . . . . . . . . .00  such symbols.
+                               Blank. . . . . . . . . . . . 77
+                               Not Classifiable . . . . . . 99  Do not include "adoptions."
+
+   Now Dead         48-49      Enter as stated.                 Blanks must be uniquely identified.
+                               "None," "N.A.," "-," "X," "0"
+                               . . . . . . . . . . . . . . .00
+                               Blank. . . . . . . . . . . . 77
+                               Not Classifiable . . . . . . 99
+
+Number Other        50-51      Enter as stated.
+Terminations                   "None," "N.A.," "-," "X," "0"
+                               . . . . . . . . . . . . . . .00
+                               Blank. . . . . . . . . . . . 77
+                               Not Classifiable . . . . . . 99
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+DATE OF
+LAST LIVE
+BIRTH
+
+  Month             52-53      January. . . . . . . . . . .01  If a span is reported for a month or
+                               February . . . . . . . . . .02  year, code the earlier entry; e.g.,
+                               March. . . . . . . . . . . .03  March-April, 1994, code 03 1994.
+                               April. . . . . . . . . . . .04
+                               May. . . . . . . . . . . . .05  Code 99 in locations 52-53 and
+                               June . . . . . . . . . . . .06  9999 in locations 212-215 for
+                               July . . . . . . . . . . . .07  entries of "None," "0," "-," "Not
+                               August . . . . . . . . . . .08  Applicable."
+                               September. . . . . . . . . .09
+                               October. . . . . . . . . . .10
+                               November . . . . . . . . . .11
+                               December . . . . . . . . . .12
+                               Not Classifiable . . . . . .99
+
+  Year              212-215    Enter four digit year.
+                               Not Classifiable . . . . .9999
+
+Filler               54-55     Blank
+
+MOTHER                56       Married. . . . . . . . . . . 1  Other entries
+MARRIED?                       Legitimate. . . . . . . . . .1
+                               Unmarried. . . . . . . . . . 2    Widowed . . . . . .2
+                               Divorced. . . . . . . . . . .2    Separated . . . . .1
+                               Not Classifiable . . . . . . 9    Common Law. . . . .1
+                                                                 Indian Marriage . . . . .1
+                                                                 Marriage Annulled . . . .2
+                                                                 Illegitimate. . . . . . .2
+
+                                                               When there is a conflict between
+                                                               check box and "other" entries, code
+                                                               the "other" entry.
+
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+DATE LAST
+NORMAL
+MENSES
+BEGAN
+
+  Month             57-58      January. . . . . . . . . . .01  Code as reported.
+                               February . . . . . . . . . .02
+                               March. . . . . . . . . . . .03  If a span is reported for day, code
+                               April. . . . . . . . . . . .04  the earlier entry; e.g., January 10-11,
+                               May. . . . . . . . . . . . .05  1995, code 01 10 1995.  If elapsed
+                               June . . . . . . . . . . . .06  span is 8 days or longer, code 99.
+                               July . . . . . . . . . . . .07
+                               August . . . . . . . . . . .08  If no day is reported but
+                               September. . . . . . . . . .09  approximate part of month is
+                               October. . . . . . . . . . .10  reported, code:
+                               November . . . . . . . . . .11
+                               December . . . . . . . . . .12  "Beginning of month" . . . . . . . . . . . . . 07
+                               Not Classifiable . . . . . .99  "Middle of month". . . . . . . . . . . . . . . 15
+                                                               "End of month" . . . . . . . . . . . . . . . . 24
+  Day               59-60      01-31
+                               Not Classifiable . . . . . .99  Sometimes the estimated date of
+                                                               confinement (EDC) or expected date
+  Year             216-219     Enter four digit  year.
+                               Not Classifiable . . . . .9999  of delivery (EDD) are reported as
+                                                               date of last normal menses.  When a
+                                                               date is reported with either of these
+                                                               terms or abbreviations, code the
+                                                               Date Last Normal Menses as "Not
+                                                               Classifiable."
+
+                                                               If Clinical Estimate of Gestation is
+                                                               reported in the last normal menses
+                                                               item on record, code 9999 in data
+                                                               positions 57-60 and 9999 in
+                                                               positions 216-219 (Date Last
+                                                               Normal Menses Began) and code
+                                                               entry as reported in data positions
+                                                               72-73 for (Clinical Estimate of
+                                                               Gestation).
+
+Filler               61        Blank
+
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+MONTH OF             62        1st month  . . . . . . . . . 1  If any fraction of a month is
+PREGNANCY                      2nd month. . . . . . . . . . 2  reported, round to next whole
+PRENATAL                       3rd month. . . . . . . . . . 3  month.
+CARE BEGAN                     4th month. . . . . . . . . . 4
+                               5th month. . . . . . . . . . 5  If entry is "-," code "0."
+                               6th month. . . . . . . . . . 6
+                               7th month. . . . . . . . . . 7  If entry is reported in weeks, convert
+                               8th month. . . . . . . . . . 8  to appropriate month using the table
+                               9th month orbelow:
+                               later  . . . . . . . . . . . 9
+                               None . . . . . . . . . . . . 0  Weeks                        Months
+                               Month Named. . . . . . . Blank  1-4. . . . . . . . . . . . . . . .1
+                               Not Classifiable . . . . . "-"  5-9. . . . . . . . . . . . . . . .2
+                                                               10-13. . . . . . . . . . . . . . .3
+                                                               14-17. . . . . . . . . . . . . . .4
+                                                               18-22. . . . . . . . . . . . . . .5
+                                                               23-26. . . . . . . . . . . . . . .6
+                                                               27-30. . . . . . . . . . . . . . .7
+                                                               31-35. . . . . . . . . . . . . . .8
+                                                               36+. . . . . . . . . . . . . . . .9
+
+Named Month         63-64      January. . . . . . . . . . .01  If both a named month and the
+                               February . . . . . . . . . .02  numeric month (1-9) that prenatal
+                               March. . . . . . . . . . . .03  care began is reported, code the
+                               April. . . . . . . . . . . .04  numeric month in the field for Month
+                               May. . . . . . . . . . . . .05  of Pregnancy Prenatal Care Began
+                               June . . . . . . . . . . . .06  and blank the Named Month field.
+                               July . . . . . . . . . . . .07
+                               August . . . . . . . . . . .08  If Month of Pregnancy Prenatal Care
+                               September. . . . . . . . . .09  Began is not reported but a named
+                               October. . . . . . . . . . .10  month is reported, code the named
+                               November . . . . . . . . . .11  month and blank the Month of
+                               December . . . . . . . . . .12  Pregnancy Prenatal Care Began
+                                                               field.
+
+                                                               If the numeric Month of Pregnancy
+                                                               Prenatal Care Began is reported, the
+                                                               field for "named month" is to be left
+                                                               blank.  If entry is reported in
+                                                               trimesters, code "-" in data position
+                                                               for Month of Pregnancy Prenatal
+                                                               Care Began.
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+PRENATAL             65-66     00-48. . . . . . . . . . 00-48  If entry is reported as a span; e.g.,
+VISITS                         49 and greater . . . . . . .49  10-13, enter the lower number of
+(TOTAL                         Not classifiable . . . . . .99  visit.
+NUMBER)
+                                                               If entry is "-," code 00.
+
+                                                               If entry is "None," code 00.
+
+WEIGHT OF
+FETUS
+
+  Units               67       Grams. . . . . . . . . . . . 1  If weight is reported in grams and
+                               Pounds and                      pounds and ounces, code grams.
+                               ounces . . .  . . . . . . . .2
+                               Not Classifiable . . . . . . 9  Fractions or decimal parts of grams
+                                                               of « (.50) or more are to be rounded
+  Grams             68-71      Enter as stated.                to the next whole gram.
+                               Not Classifiable . . . .  9999
+                                                               Fractions of pounds are to be
+    Or                                                         converted to ounces; e.g., 7«
+                                                               pounds is 7 pounds 8 ounces.
+  Pounds            68-69      Enter as stated.
+                               Less than one
+                               pound. . . . . . . . . . . .00  Round fractional ounces to nearest
+                               Not Classifiable . . . . . .99  ounce.  Entries of « or more are to
+                                                               have weight of a full ounce. If
+  Ounces            70-71      Enter as stated.                fraction is not legible, it is to have
+                               No ounces. . . . . . . . . .00  weight of a full ounce.
+                               Not Classifiable . . . . . .99
+                                                               If the entire birth-weight item is
+                               Convert kilos to grams          blank or not classifiable code 99999.
+                               (1 kilo = 1000 grams.)
+                                                               If no entry or an entry of dash is
+                                                               reported for pounds or ounces,
+                                                               code 00 for the portion of the birth
+                                                               weight that is blank or has entry of
+                                                               dash.
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+CLINICAL            72-73      Enter as stated.                Entries of fractional weeks are to be
+ESTIMATE                                                       ignored.
+OF                             Not classifiable . . . . . .99
+GESTATION                                                      If entry is reported in trimesters,
+(WEEKS)                                                        code 99.
+
+                                                               If entry is reported as a date,
+                                                               code 99.
+
+                                                               If entry is reported as a span, e.g.,
+                                                               27-34, enter the lower number of
+                                                               weeks.
+
+                                                               If the entry is reported in months,
+                                                               convert to the appropriate weeks
+                                                               using the table below:
+
+                                                               Month(s)     Weeks
+ 
+                                                                   1/2 . . . .02
+                                                                   1 . . . . .04
+                                                                   2 . . . . .09
+                                                                   3 . . . . .13
+                                                                   4 . . . . .17
+                                                                   5 . . . . . . . . . . . . . . . . . . . . 22
+                                                                   6 . . . . .26
+                                                                   7 . . . . .30
+                                                                   8 . . . . .35
+                                                                   9 . . . . .40
+                                                                   10. . . . .44
+  
+                                                                Other Entries:
+
+                                                                 Completed. . .40
+                                                                 Due. . . . . .40
+                                                                 Full Term. . .40
+                                                                 Normal . . . .40
+                                                                 Premature. . .99
+
+
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+PLURALITY             74       Single . . . . . . . . . . . 1  Code 2 for entry of Siamese twins.
+
+                               Twin . . . . . . . . . . . . 2
+
+                               Triplet. . . . . . . . . . . 3
+
+                               Quadruplet . . . . . . . . . 4
+
+                               Quintuplet and 
+                               higher . . . . . . . . . . . 5
+
+                               Not Classifiable . . . . . . 9
+
+
+
+
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+MEDICAL RISK        75-92
+FACTORS FOR THIS
+PREGNANCY
+
+None/Not Classifiable 75       One or more                     If the item is "blank," code 9
+                               factors reported . . . . . . 0  ("not classifiable") in position
+                               None.. . . . . . . . . . . . 1  75.  Insert 0's in positions
+                               Not Classifiable . . . . . . 9  76-92.
+
+Anemia (Hct.<30/Hgb   76       Not Reported . . . . . . . . 0  If the item is reported  as
+<10)                           Reported . . . . . . . . . . 1  "none," code 1 in position 75. 
+Cardiac Disease       77                                       Insert 0's in positions 76-92.
+Acute or chronic      78
+  lung disease                                                 Otherwise, code all reported
+Diabetes              79                                       risk factors with a 1 in the
+Genital herpes        80                                       corresponding position. Insert
+Hydramnios/           81                                       0's in position 75 and all other
+  Oligohydramnios                                              unused positions.
+Hemoglobinopathy      82
+Hypertension,         83                                       Note:  If the only reported
+  chronic                                                      entry is "other," code 1 in
+Hypertension,         84                                       position 92.   Insert 0's in
+  pregnancy assoc.                                             positions 75-91.
+Eclampsia             85
+Incompetent cervix    86
+Previous infant       87
+  4000+ grams
+Previous preterm      88
+  or small for
+  gestational age
+  infant
+Renal disease         89
+Rh sensitization      90
+Uterine bleeding      91
+Other                 92
+
+Filler              93-108     Blank
+
+
+
+
+
+
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+OTHER RISK 
+FACTORS FOR THIS
+PREGNANCY
+
+Tobacco Use          109        Yes. . . . . . . . . . . . .1  If "No" is reported for
+                                No . . . . . . . . . . . . .2  Tobacco Use, code 00 for
+                                Not Classifiable . . . . . .9  Average Number of
+                                                               Cigarettes
+                                                               Per Day.
+
+Average Number     110-111      Enter as                       If reported as number of
+Of Cigarettes                   stated . . . . . . . . .00-97  packs, multiply by 20 and
+Per Day                         98 and greater . . . . . . 98  code as computed.
+                                "Less than 1". . . . . . . 01
+                                Not Classifiable . . . . . 99  If entry is reported as a span;
+                                                               e.g. 10-15, enter the lower
+                                                               number of cigarettes.
+
+Alcohol Use          112        Yes. . . . . . . . . . . . .1  If "No" is reported for
+                                No . . . . . . . . . . . . .2  Alcohol Use, code 00 for
+                                Not Classifiable . . . . . .9  Average Number of Drinks
+                                                               Per Week.
+
+Average Number Of   113-114      Enter as                      If entry is reported as a
+Drinks Per Week                 stated . . . . . . . . .00-97  span; e.g. 10-15, enter the
+                                98 and greater . . . . . . 98  lower number of drinks.
+                                "Less than 1". . . . . . . 01
+                                Not Classifiable . . . . . 99
+
+Weight Gained During 115-116    Enter as                       If weight loss reported
+Pregnancy                       stated . . . . . . . . .00-97  code "00."
+                                98 and greater . . . . . . 98
+                                Not Classifiable . . . . . 99  Fractions of 1/2 or more are
+                                                               to be rounded to next
+                                                               whole pound.
+
+
+
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+OBSTETRIC           117-124
+PROCEDURES
+
+None/Not Classifiable 117      One or more                     If the item is "blank,"
+                               factors reported . . . . . . 0  code 9 ("not classifiable")
+                               None . . . . . . . . . . . . 1  in position 117.  Insert 0's in
+                               Not Classifiable . . . . . . 9  positions 118-124.
+
+Amniocentesis         118      Not Reported . . . . . . . . 0  If the item is reported as
+                               Reported . . . . . . . . . . 1  "none," code 1 in position
+Electronic fetal      119                                      117.  Insert 0's in positions
+monitoring                                                     118-124.
+
+Induction of labor    120                                      Otherwise, code all
+                                                               reported risk factors  with a
+Stimulation of labor  121                                      1 in the  corresponding
+                                                               position. Insert 0's in
+Tocolysis             122                                      position 117 and all other
+                                                               unused positions.
+Ultrasound            123
+                                                               Note:  If the only reported
+Other                 124                                      entry is "other," code 1 in
+                                                               position 124.  Insert 0's in
+                                                               positions 117-123.
+
+Filler              125-130    Blank
+
+
+
+
+
+
+
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+COMPLICATIONS OF    131-147
+LABOR AND/OR
+DELIVERY
+
+None/Not Classifiable  131     One or more                     If the item is "blank,"
+                               factors reported . . . . . . 0  code 9 ("not classifiable")
+                               None . . . . . . . . . . . . 1  in position 131.  Insert 0's
+                               Not Classifiable . . . . . . 9  in positions 132-147.
+
+Febrile(>100oF or 38oC  132    Not Reported . . . . . . . . 0  If the item is reported
+                               Reported . . . . . . . . . . 1  as  "none," code 1 in
+Meconium, moderate/     133                                    position 131.  Insert 0's
+heavy                                                          in positions 132-147.
+
+Premature rupture       134                                    Otherwise, code all
+of membrane (> 12 hrs.)                                        reported risk factors
+                                                               with a 1 in the
+Abruptio placenta       135                                    corresponding position. 
+Placenta previa         136                                    
+Other excessive bleeding 137                                   Insert 0's in position 131
+Seizures during labor   138                                    and all other unused
+positions.
+Precipitous             139
+labor (< 3 hrs.)                                               Note:  If the only reported
+                                                               entry is "other," code 1 in
+Prolonged labor         140                                    position 147.  Insert 0's in
+(> 20 hrs.)                                                    positions 131-146.
+
+Dysfunctional labor      141
+Breech/ 
+
+Malpresentation          142
+Cephalopelvic            143
+disproportion
+
+Cord prolapse            144
+Anesthetic complications 145
+Fetal distress           146
+Other                    147
+
+Filler                148-162  Blank
+
+
+
+
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+METHOD OF          163-170
+DELIVERY
+
+Not Classifiable     163       One or more                     If the item is "blank,"
+                               factors reported . . . . . . 0  code 9 ("not classifiable")
+                               Not Classifiable . . . . . . 9  in position 163.  Insert 0's in
+                                                               positions 164-170.
+Vaginal              164       Not Reported . . . . . . . . 0
+                               Reported . . . . . . . . . . 1  Otherwise, code all
+                                                               reported methods with a 1
+Vaginal birth        165                                       in the corresponding
+after previous                                                 position.  Insert 0's in
+C-section                                                      position 163 and all other
+                                                               unused positions.
+Primary           166
+C-section
+
+Repeat C-section  167
+
+Forceps           168
+
+Vacuum            169
+
+Hysterotomy/      170
+Hysterectomy
+
+Filler          171-176          Blank     
+
+
+
+
+
+
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+CONGENITAL         177-199
+ANOMALIES
+
+None/Not Classifiable 177      One or more                     If the item is "blank,"
+                               factors reported . . . . . . 0  code 9 ("not classifiable")
+                               None . . . . . . . . . . . . 1  in position 177.  Insert 0's
+                               Not Classifiable . . . . . . 9  in positions 178-199.
+
+Anencephalus          178      Not Reported . . . . . . . . 0  If the item is reported
+Spina bifida/ Meningocele 179  Reported . . . . . . . . . . 1  as "none," code 1 in 
+Hydrocephalus         180                                      position 177.  Insert 0's
+Microcephalus         181                                      in positions 178-199.
+Other central nervous 182
+system anomalies                                               Otherwise, code all 
+Heart malformations   183                                      reported risk factors 
+Other circulatory/    184                                      with a 1 in the
+respiratory anomalies                                          corresponding position.
+Rectal atresia/stenosis 185                                    Insert 0's in  position 177
+Tracheo-esophageal    186                                      and all  other unused
+fistula/Esophageal atresia                                     positions.
+Omphalocele/Gastroschisis 187
+Other gastrointestinal   188                                   Note:  If the only  reported
+anomalies                                                      entry is "other," code 1 in
+Malformed genitalia       189                                  position 199. Insert 0's in
+Renal agenesis            190                                  positions 177-198.
+Other urogenital anomalies 191
+Cleft lip/palate         192
+Polydactyly/Syndactyly/ 193
+Adactyly
+Club foot               194
+Diaphragmatic hernia    195
+Other musculo-skeletal/ 196
+integumental anomalies
+Down's syndrome        197
+Other chromosomal     198
+anomalies
+
+Other                 199
+
+Filler                220      Blank
+
+
+
+
+
+
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+UNDERLYING         221-224     Tenth Revision                  Refer to special instructions sent
+CAUSE OF DEATH                 International                   out to the states.
+                               Classification of
+                               Diseases                        Enter the underlying cause of
+                                                               death code.  For all three digit
+                                                               codes, leave the fourth digit
+                                                               blank.
+
+                                                               Refer to Appendix H for
+                                                               underlying cause of death terms
+                                                               that indicate event to be an
+                                                               induced termination of
+                                                               pregnancy.  Such events should
+                                                               be voided from the fetal death
+                                                               file.
+
+ATTENDANT            225        M.D. (Doctor of                Code attendant based on the
+                                Medicine). . . . . . . . . 1   check box entry.  If no checkbox
+                                                               is indicated but the title of the
+                                D.O. (Doctor of                attendant is identified by the
+                                Osteopathy). . . . . . . . 2   name, code accordingly.
+
+                                C.N.M. (Certified              If the name of the attendant is
+                                Nurse Midwife) . . . . . . 3   reported without a title and the
+                                                               name is different from that of the
+                                Other midwife. . . . . . . 4   person completing the report,
+                                Other. . . . . . . . . . . 5   code 9.
+                                Not Classifiable . . . . . 9
+                                                               If the attendant item is blank,
+                                                               refer to the signature or title of
+                                                               the person completing the report
+                                                               and code attendant based on
+                                                               information reported for the
+                                                               person completing the report.
+
+
+
+
+
+
+
+
+
+
+Item                Output     Code Structure                  Coding Instructions
+                  Position(s)
+
+AGE
+
+  Mother           226-227     Enter as stated.                Disregard symbols such as "+,"
+                                                               "-," "?".
+  Father           228-229     Not Classifiable . . . . . .99  Enter age only if date of birth is
+                                                               not reported or date is
+                                                               incomplete.
+
+                                                               When date of birth of mother is
+                                                               reported, data positions 226-227
+                                                               will be coded 99.
+
+                                                               When date of birth of father is
+                                                               reported, data positions 228-229
+                                                               will be coded 99.
+
+
+
+
+
+
+
+
+
+
+Appendix A
+Geopraphic Codes for State of Delivery and Residence
+
+
+Code    State              Abbrev.    Code   State              Abbrev.
+
+  01    Alabama             AL         28     Nebraska             NE
+  02    Alaska              AK         29     Nevada               NV
+  03    Arizona             AZ         30     New Hampshire        NH
+  04    Arkansas            AR         31     New Jersey           NJ
+  05    California          CA         32     New Mexico           NM
+  06    Colorado            CO         33     New York             NY
+  07    Connecticut         CT         34     North Carolina       NC
+  08    Delaware            DE         35     North Dakota         ND
+  09    District of Columbia DC        36     Ohio                 OH
+  10    Florida             FL         37     Oklahoma             OK
+  11    Georgia             GA         38     Oregon               OR
+  12    Hawaii              HI         39     Pennsylvania         PA
+  13    Idaho               ID         40     Rhode Island         RI
+  14    Illinois            IL         41     South Carolina       SC
+  15    Indiana             IN         42     South Dakota         SD
+  16    Iowa                IA         43     Tennessee            TN
+  17    Kansas              KS         44     Texas                TX
+  18    Kentucky            KY         45     Utah                 UT
+  19    Louisiana           LA         46     Vermont              VT
+  20    Maine               ME         47     Virginia             VA
+  21    Maryland            MD         48     Washington           WA
+  22    Massachusetts       MA         49     West Virginia        WV
+  23    Michigan            MI         50     Wisconsin            WI
+  24    Minnesota           MN         51     Wyoming              WY
+  25    Mississippi         MS         52     Puerto Rico          PR
+  26    Missouri            MO         53     Virgin Islands       VI
+  27    Montana             MT         54     Guam                 GU
+ 
+ 
+             55        Canada
+             55        Canadian Provinces
+                       Alberta (Alta.)
+                       British Columbia (B.C.)
+                       Great Northwest Territories (GNWT or NWT)
+                       Manitoba (Man.)
+                       New Brunswick (N.B.)
+                       Newfoundland (Nfld.)
+                       Nova Scotia (N.S.)
+                       Ontario (Ont.)
+                       Prince Edward Island (PEI)
+                       Quebec, Province of Quebec (Que. or P.Q.)
+                       Saskatchewan (Sask.)
+                       Yukon Territory (Y.T.)
+             56        Cuba
+             57        Mexico
+             59        Remainder of World
+ 
+ Note: Remember to distinguish between the Country of Georgia (in former Soviet Union)
+ which is coded to Remainder of World (59) and the State of Georgia which is coded to 11.
+ 
+  
+
+Appendix B
+Interpretations of Atlas Notations
+ 
+     1.  If the notation "part of _____" or "population included in _____" appears,   
+     consider the entry to be an inclusion of the city named and code accordingly.
+ 
+     2.  If the notation "rural" and "mail to _____" or "no pop." appears, code to the     
+     balance of the county.
+ 
+     3.  If only the notation "mail to _____" or "population included with _____"     
+     appears, code to the balance of the named county.  ("Population included with" 
+     refers to an unincorporated place.)
+ 
+     4.  If the notation "Station," "Branch of _____" or "Rural Station" appears, code     to
+     the balance of county.
+ 
+     5.  If the notation "Station of _____ P. O." appears, consider the entry to be an     
+     inclusion of the city named and code accordingly.
+ 
+ 
+Appendix C
+Largest City and code by State of Residence
+
+State of Residence                NCHS Code           Largest City
+01    Alabama                        008              Birmingham
+02    Alaska                         001              Anchorage
+03    Arizona                        017              Phoenix
+04    Arkansas                       014              Little Rock
+05    California                     143              Los Angeles
+06    Colorado                       009              Denver
+07    Connecticut                    004              Bridgeport
+08    Delaware                       003              Wilmington
+09    District of Columbia           001              Washington
+10    Florida                        041              Jacksonville
+11    Georgia                        005              Atlanta
+12    Hawaii                         003              Honolulu
+13    Idaho                          001              Boise City
+14    Illinois                       034              Chicago
+15    Indiana                        027              Indianapolis
+16    Iowa                           012              Des Moines
+17    Kansas                         033              Wichita
+18    Kentucky                       017              Louisville
+19    Louisiana                      022              New Orleans
+20    Maine                          006              Portland
+21    Maryland                       003              Baltimore
+22    Massachusetts                  012              Boston
+23    Michigan                       025              Detroit
+24    Minnesota                      041              Minneapolis
+25    Mississippi                    017              Jackson
+26    Missouri                       028              Kansas City
+27    Montana                        002              Billings
+
+State of Residence                   NCHS Code        Largest City
+28    Nebraska                          011           Omaha
+29    Nevada                            005           Las Vegas
+30    New Hampshire                     008           Manchester
+31    New Jersey                        104           Newark
+32    New Mexico                        002           Albuquerque
+33    New York                          053           New York
+34    North Carolina                    009           Charlotte
+35    North Dakota                      003           Fargo
+36    Ohio                              034           Columbus
+37    Oklahoma                          025           Oklahoma City
+38    Oregon                            027           Portland
+39    Pennsylvania                      092           Philadelphia
+40    Rhode Island                      014           Providence
+41    South Carolina                    007           Columbia
+42    South Dakota                      007           Sioux Falls
+43    Tennessee                         030           Memphis
+44    Texas                             075           Houston
+45    Utah                              020           Salt Lake City
+46    Vermont                           001           Burlington
+47    Virginia                          022           Norfolk
+48    Washington                        034           Seattle
+49    West Virginia                     003           Charleston
+50    Wisconsin                         035           Milwaukee
+51    Wyoming                           002           Cheyenne
+52    Puerto Rico                       765           San Juan
+53    Virgin Islands                    001           Charlotte Amalie
+
+
+Appendix D
+Other Entries Reported on Records and Code for Race
+
+The expanded Asian and Pacific Islander categories of A, B, C, D, and E are required only for the following
+funded registration areas:  California, Hawaii, Illinois, New Jersey, New York State, New York City, Texas
+and Washington.  The remaining registration areas may choose to use the expanded categories or continue
+coding Asian Indian,  Korean, Samoan, Vietnamese and Guamian to 8.
+
+ENTRY          CODE  
+Afghanistan . . 1
+African . . 2
+Aleut . . 3
+Algerian. . .1
+Alocona . . 0
+Ameriasian. . .8
+American. . .1
+Amish . . .1
+Anglo-Saxon . . 1
+Arabian . . 1
+Argentinian . . 1
+Armenian. . .1
+Aryan . . 1
+Asian Indian. . .8 or A
+Asiatic . . 8
+Assyrian. . .1
+Athapaskan  . . 3
+Australian. . .1
+Austrian. . .1
+Azores. . .1
+
+Bahamian. . .0
+Bangladeshi . . 8
+Basque  . . 1
+Bavarian. . .1
+Begri . . 0
+Belizian. . .0
+Bilalian. . .2
+Biracial. . .0 or F
+Blanc . . 1
+Bohemian. . .0
+Bolivian. . .1
+Brava (Bravo) . . 1
+Brazilian . . 1
+British Honduran. . .0 
+Burmese . . 8
+
+C . . 0
+Cajun . . .1 
+Cambodian . . 8 
+Canadian. . .1
+Cape Verde. . .2 
+Carib . . 0
+Caucasian . . 1
+Ceylonese . . 8
+Chamorro. . .8 or E
+Chamosso. . .0
+Chicano . . 1
+
+
+ENTRY      CODE
+Chinese . . 4
+Chuukese. . .8
+Colestran . . 0
+Colombian . . 1
+Cosmopolitan. . .0
+Costa Rican . . 1
+Creole. . .1
+Crucian . . 1
+Cuban . . 1
+Czechoslovakian . . 1
+
+Dominican . . .2
+Dutch East Indian . . 8
+
+East Indian . . 8 or A
+East Indies . . .8
+Ebian . . 1
+Ecuadorian. . .1
+Egyptian. . .1
+English . . .1
+English-French. . .1
+English-Irish . . 1
+Eritrean. . .2
+Eskimoan. . .3
+Ethiopia(n) . . .2
+Eurasian. . .8
+European. . .1
+
+Fijian. . .8
+Filipino. . .7
+Finnish . . 1
+French. . .1
+French Canadian . . 1
+French Indian . . .3
+
+
+Georgian. . .1
+German. . .1
+Ghanaian. . .2
+Gilbertese. . .8
+Greek . . 1
+Guam(ian)(ese)  . . 8 or E
+Guatemalan. . .0
+Guyanese. . .0
+Gypsy . . 1 
+
+
+Haitian . . 2
+Hamitic . . 2
+Hawaiian. . .6
+Hebrew. . .1
+Hindu . . 8 or A
+Hispanic. . .1 
+Honduran. . .0
+Hungarian . . 1 
+
+
+ENTRY          CODE
+Icelandic . . 1
+India . . 8 or A
+Indian (North, Central and South  
+   American). . .3
+Indo-Aryan. . .8 or A
+Indonesian. . .8
+Iran(ian) . . 1
+Iraqi . . 1
+Irish . . 1
+Islamic . . 1 
+Israelite . . 1
+Italian . . 1 
+
+Jackson (Jack) White. . .0
+Jamaican. . .2
+Japanese. . .5
+Java. . .8
+Jew . . 1
+Jordanian . . 1
+
+
+Kenyan. . .2
+Korean. . .8 or B
+Kuwaitian . . 1
+
+
+Ladina (Ladino) . . 1
+Laotian (Asian) . . .8
+Latin American. . .1
+
+
+Latvian . . 1
+Lebanese. . .1
+Liberian. . .2
+Libyan. . .1
+Lithuanian. . .1
+
+Mal.  . . 0
+Malada. . .0
+Malawian. . .2
+Malayan . . 8
+Maltese . . 1
+Maori . . 8
+Marshallese . . 8
+Marshenese. . .1
+Mauritian . . 1
+Mediterranean . . 1
+Melanesian. . .8
+Mestizo . . 0
+Mestizo-Inca. . .0
+Mexican . . 1
+Mexican Indian. . .3
+Micronesian . . 8
+Mixed . . 0 or F
+Mohammedan (Moslem) . . 1
+Moor. . .0
+Moroccan. . .1
+Mosotho . . .0
+Mugandan. . .2
+Mulatto . . 2
+
+
+ENTRY              CODE
+Multi-racial. . .0 or F
+Muslim. . .1
+
+
+N/W . . 0
+Nassau  . . 2
+Native American . . 3
+Nepalese. . .8
+Nicaraguan. . .0
+Nigerian. . .2
+Nipponese (Nipon) . . 5
+Nordic. . .1
+Norwegian . . 1
+Nubian. . .2
+
+
+Occidental. . .1
+Octaroon. . .2
+Okinawan. . .5
+
+
+Pakistani . . 8
+Palauan . . .8
+Panamanian. . .0
+Parsi . . 1
+Persian . . 1
+Peruvian. . .1
+Phoenician. . .0
+Polish. . .1
+Polynesian  . . 8
+Ponapean. . .8
+Portuguese. . .1
+Puerto Rican. . .1
+Punjabi . .  8 or A
+
+Quadroon. . .2
+
+Red . . 3
+Romanian. . .1
+Rotanese. . .8
+Russian . . 1
+Ryukyan . . 5
+
+
+Saipanese . . 8
+Salvadorian . . 0
+Samoa(n)  . . 8 or C
+Santo-Domingo . . .2
+Saudi Arabia(n) . . 1
+Saxon(y). . .1
+Scandinavian  . . 1
+Scotch. . .1
+Selawik . . 3
+Semitic . . 1
+Serbian . . 1
+Servian . . 1
+Seychelloise  . . 2
+
+
+ENTRY       CODE
+Siamese . . 8
+Siamsh Am . . 0
+Sicilian. . .1
+Sikh. . .8 or A
+Singhalese. . .8
+Sino Burman . . 4
+Slovakian . . 1
+Soanish . . 0
+South American. . .1
+Spanish . . 1
+Sudanese. . .2
+Sunni . . 1
+Swedish . . 1
+Syrian. . .1
+
+
+Tahitian. . .8
+Taimskin. . .3
+Taiwanese . . 4
+Tamil-Ceylonese . . 8
+Tamil-Malayan . . 8
+Tanzanian . . 2
+Teutonic. . .1
+Thai. . .8
+Tibetan . . 8
+Tongan. . .8
+Trigueno. . .0
+Trinidadian . . 2
+Trukese . . 8
+Tunisian. . .1
+Turk. . .1
+
+Ubontilian. . .8
+Ugandan . . 2
+Ukranian. . .1
+Ulithian. . .0
+Ute . . 3
+
+
+Venezuela(n). . .1
+Vietnam(ese). . .8 or D
+
+
+W . . 1
+Welsh . . 1
+West Indies (Indian)  . . 2
+Wiam (White American) . . 1
+
+
+Yapanes . . 8
+Yemenite. . .1
+Yugoslavian . . 1
+
+
+Zoroastrian . . .1
+
+
+
+Appendix E
+Indian Tribes in the United States, Canada, and Mexico
+
+Abnaki
+Absentee-Shawnee
+Acoma
+Ak Chin  
+Alabama-Coushatt
+  Tribes of Texa
+Alsea 
+Apache
+Arapaho 
+Arikara
+Assiniboin      
+Atacapa         
+Athapaskan      
+Atsina          
+Aztec          
+Bear River      
+Beaver          
+Bella Coola     
+Beothuk  
+Blackfoot 
+Boold Piegan    
+Blue Lake       
+Brotherton
+Caddo 
+Cakchiquel-lenca
+Calapooya  
+Carrier
+Catawba  
+Cattaraugus
+Cayuga
+Cayuse 
+Chasta Costa
+Chehalis
+Chemehuevi 
+Cherokee
+Chetco
+Cheyenne
+Cheyenne River Sioux
+Chickahominy
+Chickasaw
+Chinook 
+Chipewyan 
+Chippewa 
+Chippewa-Ojibwa
+Chiricahua Apache
+Chitimacha Choctaw
+Chol
+ Chontal
+Chorti
+Chuckchansi
+Chumash
+Clallam
+ Clatsop
+Clackamus
+Clear Lake
+Coast Salish
+Cochimi
+Cochiti
+Cocopa
+ Coeur D'Alene Tribe
+  of Idaho
+Cocopah
+ Columbia
+Colville
+Comox
+Comanche
+Concow
+Conquille
+Coushatta
+Covelo
+Cow Creek
+Cowichan
+Cowlitz
+Coyotero Apache
+Cree
+Creek
+Crow
+Crow Creek Sioux
+Dakota
+Delaware
+Diegueno
+Digger
+Dog Rib
+Duckwater
+Euchi
+Eyak
+Flathead
+Fort Hall Res. Tribe
+  of Idaho
+French Indian
+Gabrieleno
+Galice Creek 
+Gay Head
+Gosiute
+Gros Ventre       
+Haida
+Han
+Hare
+Hat Creek
+Hawasupai
+Hidatsa 
+Hoh
+Hoopa
+Hopi 
+Houma
+Hualapai
+Huastec
+Humboldt Bay
+Hupa
+Huron
+Illinois
+Ingalik
+Iowa
+Iroquois
+Isleta
+Jemez
+Joshua
+Juaneno 
+Jicarilla Apache
+Kaibah 
+Kalispel
+Kanosh Band of Paiutes
+Kansa 
+Karankawa
+Karok  
+Kaska
+Kaw
+Kawai                                    
+ Keresan Pueblos
+Kern River
+Kichai
+Kickapoo
+Kiowa
+Kiowa Apache 
+Kitamat 
+Klamath
+Klikitat 
+Koasati
+Kootenai Tribe of Idaho
+Kusa
+Kutchin
+Kutenai
+Kwakiutl
+Lac Courte Dreille
+Laguna
+Lakmuit
+Lipan Apache
+Lower Brule Sioux
+Luiseno
+Lummi
+Maidu
+Makah
+Malecite
+Mandan
+Maricopa
+Mary's River
+Mashpee
+Mattaponi
+Maya
+Mayo
+Mdewakanton Sioux
+Menominee
+Menomini
+Mequendodon
+Mescalero Apache
+Miami
+Micmac
+Mission Indians
+Missouri
+Miwok
+Mixe
+Mixtec
+Modoc
+Mohave
+Mohawk
+Mohegan
+Molala
+Monachi
+Mono
+Montagnais
+Montauk
+Muckleshoot
+Munsee
+Nambe
+Namsemond
+Nanticoke      
+Narragansett   
+Naskapi        
+Natchez        
+Navaho         
+Navajo         
+Nez Perce      
+Niantic        
+Nipmuck        
+Nisenan-Patwin 
+Nisqually      
+Nomelaki       
+Nooksak        
+Nootka         
+Northern Paiute
+Oglala Sioux   
+Okanogan       
+Omaha          
+Oneida         
+Onondaga       
+Opata          
+Opato          
+Osage          
+Oto            
+Otoe           
+Otomi
+Ottawa
+Ozette
+Paiute
+Pamunkey
+Panamint
+Papago
+Passamaquoddy
+Patwin         
+Pawnee         
+Pen d'Oreille  
+Penobscot      
+Peoria         
+Pequot         
+Picuris        
+Pima           
+Pit River      
+Pojoaque       
+Pomo           
+Ponca          
+Poosepatuck    
+Potawatomi     
+Potomac
+Powhatan
+Pueblos
+Puyallup
+Quapaw
+Quechan
+Quileute
+Quinaielt
+Quinault
+Rappahannock
+Rogue River
+Rosebud Sioux
+Sac and Fox
+Saginaw
+Salish
+Sandia
+San Felipe
+San Ildefonso
+San Juan
+San Lorenzo
+San Luis Obispo
+San Luiseno
+Sanpoil
+Sanpoil Nespelem
+Sant'ana
+Santa Barbara
+Santa Clara
+Santa Ynez
+Santee
+Santee Sioux
+Santiam
+Sauk and Fox
+Scaticook
+Sekane
+Seminole
+Seneca
+Seri
+Shasta
+Shawnee
+Shinnecock
+Shivwits Band of
+Paiutes
+Shoshone
+Shoshone-Bannock
+Shuswap
+Siouans
+Sioux
+Sisseton
+Sisseton-Wahpeton Sioux 
+Siuslaw                 
+Skagit Suiattle         
+Skokomish               
+Slave                   
+Smith River             
+Snake                   
+Snohomish               
+Snoqualmi               
+Songish Southern Paiute 
+Squaxin                 
+Stockbridge 
+Sumo-Mosquito 
+Suquamish
+Swinomish
+Taimskin
+Tanana 
+Tanoan Pueblos
+Taos
+Tarahumare
+Tarascan 
+Tawakoni 
+Tejon
+Tenino or Warm Springs  
+Tesuque
+Teton 
+Teton Sioux 
+Tillamook 
+Timucua 
+Thlinget 
+Tolowa 
+Tonawanda
+Tonkawa
+Tonto Apache
+Topinish 
+Totonac
+Tsimshian 
+Tulalip
+Tule River Indians      
+Tunica 
+Tuscarora
+Tututni   
+Umatilla 
+Umpqua
+Upper Chinook  
+Ute
+Waca
+Waicuri-Pericue
+Wailaki
+Walapai
+Walla Walla
+Wampanoag
+Wapato
+Warm Springs
+Wasco
+Washo
+Washoe
+Western Apache
+Western Shoshone
+Whilkut
+Wichita
+Wikchamni
+Wind River Shoshone
+Winnebago
+Wintu
+Wintun
+Wishram
+Wyandotte
+Xicaque
+Yahooskin
+Yakima
+Yamel
+Yana
+Yankton
+Yanktonnais Sioux
+Yaqui
+Yaquina
+Yavapai
+Yawilmani
+Yellow Knife
+Yerington Paiute
+Yokuts
+Yokuts-Mono
+Yomba Shoshone
+Yuchi
+Yuki
+Yuma
+Yurok
+Zacatec
+Zapotec
+Zia
+Zoque
+Zuni
+
+
+Appendix F
+Other Entries Reported on Records and Codes for Education of Mother and Father
+
+
+                                                    College Entries                                     Code
+4 + 2 . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+Post graduate . . . . . . . . . . . . . . . . . . . . . . .17
+16 mos. . . . . . . . . . . . . . . . . . . . . . . . . . .13
+        (convert months by dividing by 9) (1 yr. 7 mos.)
+3/4 . . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+2.5 . . . . . . . . . . . . . . . . . . . . . . . . . . . .14
+1+1 N.T . . . . . . . . . . . . . . . . . . . . . . . . . .13
+1500 hrs. . . . . . . . . . . . . . . . . . . . . . . . . .99
+10. . . . . . . . . . . . . . . . . . . . . . . . . . . . .17
+P. G. - 4 . . . . . . . . . . . . . . . . . . . . . . . . .99
+In 2nd year . . . . . . . . . . . . . . . . . . . . . . . .13
+B . . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+BA with 1 yr. law . . . . . . . . . . . . . . . . . . . . .17
+Senior. . . . . . . . . . . . . . . . . . . . . . . . . . .15
+Soph. . . . . . . . . . . . . . . . . . . . . . . . . . . .13
+College . . . . . . . . . . . . . . . . . . . . . . . . . .16
+University. . . . . . . . . . . . . . . . . . . . . . . . .16
+1 year Prep.  . . . . . . . . . . . . . . . . . . . . . . .99
+Yes . . . . . . . . . . . . . . . . . . . . . . . . . . . .16
+4 semesters . . . . . . . . . . . . . . . . . . . . . . . .14
+Assoc. degree . . . . . . . . . . . . . . . . . . . . . . .14
+Graduate. . . . . . . . . . . . . . . . . . . . . . . . . .16
+6 months  . . . . . . . . . . . . . . . . . . . . . . . . .12
+2/3 . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Less than 3/4 or less than 9 mos. . . . . . . . . . . . . .12
+Technical or Trade School . . . . . . . . . . . . . . . . . 99
+Junior College. . . . . . . . . . . . . . . . . . . . . . .14
+Juris Doctor  . . . . . . . . . . . . . . . . . . . . . . .17
+Masters . . . . . . . . . . . . . . . . . . . . . . . . . .17
+
+Elementary or Secondary Entries                            Code
+
+Kindergarten. . . . . . . . . . . . . . . . . . . . . . . .00
+Finished in service . . . . . . . . . . . . . . . . . . . .12
+G.E.D - Army. . . . . . . . . . . . . . . . . . . . . . . .12
+3 - graduate. . . . . . . . . . . . . . . . . . . . . . . .11
+Senior. . . . . . . . . . . . . . . . . . . . . . . . . . .11
+Soph. . . . . . . . . . . . . . . . . . . . . . . . . . . .09
+High School . . . . . . . . . . . . . . . . . . . . . . . .12
+Yes . . . . . . . . . . . . . . . . . . . . . . . . . . . .12
+GED . . . . . . . . . . . . . . . . . . . . . . . . . . . .12
+Graduate  . . . . . . . . . . . . . . . . . . . . . . . . .12
+Elementary. . . . . . . . . . . . . . . . . . . . . . . . .06
+Secondary . . . . . . . . . . . . . . . . . . . . . . . . .12
+
+
+Appendix G
+Other Entries Reported on Records and Code for Hispanic Origin
+
+ENTRY                            CODE
+
+Argentina (Argentino). . . . . . . .4
+ 
+Balearic Islands . . . . . . . . . .5
+Basque . . . . . . . . . . . . . . .5
+Belizian . . . . . . . . . . . . . .4
+Bolivian (Boliviano) . . . . . . . .4
+Boricua (Borinqueno) . . . . . . . .2
+Brazilian. . . . . . . . . . . . . .0
+
+Californio . . . . . . . . . . . . .5
+Canary Islands . . . . . . . . . . .5
+Castilian. . . . . . . . . . . . . .5
+Catalonia. . . . . . . . . . . . . .5
+Centroamericano. . . . . . . . . . .4
+Chicano. . . . . . . . . . . . . . .1
+Chile (Chileno). . . . . . . . . . .4
+Colombia (Colombiano). . . . . . . .4
+Costa Rica (Costarricense) . . . . .4
+Cuban (Cubano) . . . . . . . . . . .3
+
+Dominican Republic (Dominicano). . . . . . .4
+
+Ecuador (Ecuatoriano). . . . . . . .4
+El Salvador. . . . . . . . . . . . .4
+Espana . . . . . . . . . . . . . . .5
+Espanol. . . . . . . . . . . . . . .5
+
+Falkland Island. . . . . . . . . . .4
+Fernando Po. . . . . . . . . . . . .5
+
+Galapagos Islands. . . . . . . . . .4
+Guatemala (Guatemalteco) . . . . . .4
+
+
+Hispano . . 5
+Honduras (Hondureno). . .4
+
+
+Iberia (Ibero). . .5
+
+La Raza . . 4
+Latin American. . .5
+Latino. . .5
+
+Majorca . . 5
+Mallorca (Mallorquin) . . 5
+Mexican (Mexicano). . .1
+Mexican American. . .1
+
+Nicaragua (Nicaraguense). . .4
+
+Panama (Panameno) . . 4
+Paraguay (Paraguayo). . .4
+Peru (Peruano). . .4
+Puerto Rican (Puertorriqueno) . . 2
+
+Salvadoreno . . 4
+Spain . . 5
+Spaniard. . .5
+
+Uruguay (Uruguayo). . .4
+
+Valencian . . 5
+Venezuela (Venezolano). . .4
+
+
+Appendix H
+Terms Indicating Induced Abortions                                 
+
+      1.  Consensual Abortion
+      2.  Convenience
+      3.  Dilation and curettage (D & C)
+      4.  Demand Abortion
+      5.  Dilation and curettage for termination of pregnancy psychiatric
+          indications (D & C for T. O. P.)
+
+      6.  Dilation and evacuation (D & E)
+      7.  Dilatation and suction curettage (D & SC)
+      8.  Early uterine evacuation 
+      9.  Elective Abortion (E. A.)
+     10.  Endometrial aspiration
+     11.  Extra-amniotic injection
+     12.  Hypersalinezation
+     13.  Hysterotomy
+     14.  Hysterectomy for termination of pregnancy (Hysterectomy)
+     15.  Iatrogenic interruptions of pregnancy (Iatrogenic)
+     16.  Inconvenience
+     17.  Indicated Abortion Social Economic Reason
+     18.  Induced Abortion
+     19.  Induced by instrumentation prior to admission
+     20.  Induced Preg. termination
+     21.  Induced Termination of Pregnancy (ITOP)
+     22.  Intentional termination of pregnancy
+     23.  Interrupted first trimester
+     24.  Interrupted pregnancy
+     25.  Intra-amniotic injection
+     26.  Intra-amniotic instillation
+     27.  Intra-uterine prostaglandin instillation
+     28.  Intra-uterine saline instillation
+     29.  Laminaria
+     30.  Legal Abortion
+     31.  Legally induced abortion
+     32.  Medically Induced Abortion
+     33.  Medical Termination of Pregnancy
+     34.  Menstrual Aspiration
+     35.  Menstrual Extraction
+     36.  Menstrual Induction
+     37.  Menstrual Regulation
+     38.  Oxytocin induction
+     39.  Pitocin induction
+     40.  Prophylactic Abortion
+     41.  Prostaglandin Injection
+     42.  Prostaglandin injection
+     43.  Prostaglandin amniocentesis
+     44.  Requested Abortion
+     45.  Saline Induction (Saline) (salting out procedure) (salinezation)
+     46.  Saline amniocentesis
+     47.  Saline amnio-infusion
+     48.  Saline amniotic fluid exchange
+     49.  Septic Abortion
+     50.  Septic criminal abortion
+     51.  Sharp curettage
+     52.  Sociologic termination
+     53.  Suction Abortion
+     54.  Suction Curettage (S. & C.)
+     55.  Suction D & C
+     56.  Sulting out procedure
+     57.  Surgical Abortion (S. A.)
+     58.  Surgical curettage
+     59.  Surgical excision of pregnancy
+     60.  Surgical Interruption of Pregnancy
+     61.  Termination of Pregnancy
+     62.  Therapeutic Abortion (T. A., ther ab, Tab)
+     63.  Therapeutic Interruption (T. I.)
+     64.  Undesired pregnancy
+     65.  Vacuum Aspiration
+     66.  Vacuum extraction
+     67.  Vacuum induction
+     68.  Vaginal suppository prostaglandin
+     69.  Voluntary Abortion (V. A. or V. I. A.)
+     70.  Voluntary Interruption of Pregnancy
+     71.  Voluntary termination pregnancy (VTP)
+
+Vital Statistics Instruction Manuals
+
+Part 1 Source Records and Control Specifications (1995)
+
+Part 2a     Instructions for Classifying the Underlying Cause of Death (1999)
+
+Part 2b     Instructions for Classifying Multiple Causes of Death (1999)
+
+Part 2c     ICD-10 ACME Decision Tables for Classifying Underlying Causes of Death (1999)
+
+Part 2d     NCHS Procedures for Mortality Medical Data System File Preparation and Maintenance
+            (1999)
+
+Part 2e     Non-Indexed Terms, Standard Abbreviations, and State Geographic Codes Used in Mortality
+            Data Classification (1995)
+
+Part 2f     ICD-10 TRANSAX Disease Reference Tables for Classifying Multiple Causes-of-Death
+            (1999)
+
+Part 2g     Data Entry Instructions for the Mortality Medical Indexing, Classification, and Retrieval
+            System (MICAR) (1999)
+
+Part 2h     Dictionary of Valid Terms for the Mortality Medical Indexing, Classification, and Retrieval
+            System (MICAR) (1992)
+
+Part 2i     MICAR Quick Reference Guide (1999)
+
+Part 3a     Classification and Coding Instructions for Live Birth Records (1999)
+
+Part 3b     Classification and Coding Instructions for Fetal Death Records (1999)
+
+Part 4 	Demographic Classification and Coding Instructions for Death Records (1999)
+
+Part 5 	Data Preparation of the Current Mortality Sample (1995)
+
+Part 6 	Classification and Coding Instructions for Marriage Records (1995)
+
+Part 7 	Classification and Coding Instructions for Divorce Records (1995)
+
+Part 8 	Vital Records Geographic Classification (1995)
+
+Part 9 	ICD-10 Underlying Cause of Death Lists for Tabulating Mortality Statistics (1999)
+
+Part 10     Classification and Coding Instructions for Induced Termination of Pregnancy Records (1993)
+
+Part 11     Computer Edits for Mortality Data (1999)
+
+Part 12     Computer Edits for Natality Data (1993)
+
+Part 18     Guidelines for Implementing Field and Query Programs for Registration of Births and Deaths
+            (1993)
+
+Part 19     Industry and Occupation Coding for Death Certificates (1998)
+
+Part 19B    Alphabetical Index of Industries and Occupations (1998)
+
+Part 20     Cause-of-Death Query Manual (1985)

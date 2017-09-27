@@ -1,0 +1,359 @@
+WWL Data Point Analysis	
+
+							
+WWL Data Point:RLAC-01-01
+County:Vermilion
+Surveyed Elevation (ft NAVD 88):4.2	
+Data Point Ground Elevation
+ (from 2 ft contours):4	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):N/A
+Distance to Original Flood Inundation Boundary (ft):N/A
+Distance to Original Debris Line (ft):N/A
+ACTION:Extended inland flood polygon to meet point using 4 and 6 ft contours.
+EXPLANATION:  	No inundation polygon was shown in this area from aerial imagery photointerpretation.  Flagger form and photos indicate there was flooding here ("never flooded before Rita").
+
+
+WWL Data Point:  RLAC-01-02
+County:  Vermilion
+Surveyed Elevation (ft NAVD 88):  7.4	
+Data Point Ground Elevation
+ (from 2 ft contours):  6	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):  N/A
+Distance to Original Flood Inundation Boundary (ft):N/A
+Distance to Original Debris Line (ft):N/A
+ACTION:  Extended inland flood polygon to meet point using 4 and 6 ft contours.
+EXPLANATION: No inundation polygon was shown in this area from aerial imagery photointerpretation.  Flagger observations and photos indicate there was flooding here ("never flooded before Rita").
+
+
+WWL Data Point:  RLAC-01-03
+County:  Vermilion
+Surveyed Elevation (ft NAVD 88):  7.8	
+Data Point Ground Elevation
+ (from 2 ft contours):  8	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):  N/A
+Distance to Original Flood Inundation Boundary (ft):N/A
+Distance to Original Debris Line (ft):N/A
+ACTION:  Extended inland flood polygon from RLAC 11-24 using 6 and 8 ft contours.
+EXPLANATION:  No inundation polygon was shown in this area from aerial imagery photointerpretation.  Flagger observations indicate flooding occurred here (waterline- 1' HWM to ground). 							
+ 
+
+WWL Data Point: RLAC-01-04
+County: St. Mary
+Surveyed Elevation (ft NAVD 88): 5.0	
+Data Point Ground Elevation
+ (from 2 ft contours): 6	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):  N/A
+Distance to Original Flood Inundation Boundary (ft):  N/A
+Distance to Original Debris Line (ft):  N/A
+ACTION:  Extended marsh polygon to this point using coast and HWY 317 as boundaries.
+EXPLANATION:  Area has low elevations and includes undeveloped marshland and should be included in the marsh polygon.  
+
+
+WWL Data Point: RLAC-01-05
+County: St. Mary
+Surveyed Elevation (ft NAVD 88): 4.5	
+Data Point Ground Elevation
+ (from 2 ft contours): 6	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours): N/A
+Distance to Original Flood Inundation Boundary (ft): N/A
+Distance to Original Debris Line (ft): N/A
+ACTION: Extended marsh polygon to this point using coast and HWY 317 as boundaries.
+EXPLANATION:  Point was taken on shoulder of road which is a high point in the area.  Marshland surrounds the road and development. Flooding could have affected surrounding areas.
+
+
+WWL Data Point:  RLAC-02-11
+County:  Calcasieu
+Surveyed Elevation (ft NAVD 88):  3.7	
+Data Point Ground Elevation
+ (from 2 ft contours):  4	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):  6
+Distance to Original Flood Inundation Boundary (ft):  120
+Distance to Original Debris Line (ft): N/A
+ACTION:  No action.
+EXPLANATION:  	Point is within 200 ft of the inundation polygon.
+
+
+WWL Data Point:RLAC-02-14
+County:Calcasieu
+Surveyed Elevation (ft NAVD 88):10.9	
+Data Point Ground Elevation
+ (from 2 ft contours):24	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):10
+Distance to Original Flood Inundation Boundary (ft):33000
+Distance to Original Debris Line (ft): - 
+ACTION:  Designated as a WWL Data Point NUAR.
+EXPLANATION: Point falls outside of the inundation polygon at an elevation that is greater than the flooding elevation.  Ponding due to poor drainage is suspected as the cause of the observed HWM.  Point should not have been designated as a WWL point. 
+
+
+WWL Data Point:
+County:
+Surveyed Elevation (ft NAVD 88):	
+Data Point Ground Elevation
+ (from 2 ft contours):	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):
+Distance to Original Flood Inundation Boundary (ft):
+Distance to Original Debris Line (ft):
+ACTION:
+EXPLANATION:  RLAC-03-01	Vermilion	6.8	6	N/A			Extended inland flood polygon to meet point using 4 and 6 ft contours.	No inundation polygon was show in this area from aerial imagery photointerpretation.  Flagger observations and eyewitness account  indicates flooding occurred here.  
+
+ 
+WWL Data Point:
+County:
+Surveyed Elevation (ft NAVD 88):	
+Data Point Ground Elevation
+ (from 2 ft contours):	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):
+Distance to Original Flood Inundation Boundary (ft):
+Distance to Original Debris Line (ft):
+ACTION:
+EXPLANATION:  RLAC-03-02	Cameron	4.6	4	4	2300	------	No action.  	Point falls inside of inundation polygon. Point was taken on shoulder of the road which is a high point in the area so flooding could have reached further north.
+
+WWL Data Point:
+County:
+Surveyed Elevation (ft NAVD 88):	
+Data Point Ground Elevation
+ (from 2 ft contours):	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):
+Distance to Original Flood Inundation Boundary (ft):
+Distance to Original Debris Line (ft):
+ACTION:
+EXPLANATION:  RLAC-03-03	Calcasieu	6.1	8	8	730	------	No action.  	Point lies within the inundation polygon.  
+
+WWL Data Point:
+County:
+Surveyed Elevation (ft NAVD 88):	
+Data Point Ground Elevation
+ (from 2 ft contours):	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):
+Distance to Original Flood Inundation Boundary (ft):
+Distance to Original Debris Line (ft):
+ACTION:
+EXPLANATION:  RLAC-03-04	Vermilion	8.0	8	N/A			Extended inland flood polygon from RLAR 12-09 using 8ft contours.	No inundation polygon was shown in this area from aerial imagery photointerpretation.  Flagger observations indicate flooding occurred here.  
+
+WWL Data Point:
+County:
+Surveyed Elevation (ft NAVD 88):	
+Data Point Ground Elevation
+ (from 2 ft contours):	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):
+Distance to Original Flood Inundation Boundary (ft):
+Distance to Original Debris Line (ft):
+ACTION:
+EXPLANATION:  RLAC-03-05	Iberia	6.9	8	N/A			Extended inland flood polygon from RLAC 3-05  using 8-ft contours.	Point falls outside of the inundation polygon. Point was taken on the road shoulder, which is a high point in the area, so flooding could have reached surrounding areas.
+
+WWL Data Point:
+County:
+Surveyed Elevation (ft NAVD 88):	
+Data Point Ground Elevation
+ (from 2 ft contours):	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):
+Distance to Original Flood Inundation Boundary (ft):
+Distance to Original Debris Line (ft):
+ACTION:
+EXPLANATION:  RLAC-03-06	St. Mary	9.6	10	N/A			Extended inland flood polygon from RLAC 3-06  using 8ft contours.	Point falls outside of the inundation polygon. Point was taken on the road shoulder, which is a high point in the area, so flooding could have reached surrounding areas.
+ 
+WWL Data Point:
+County:
+Surveyed Elevation (ft NAVD 88):	
+Data Point Ground Elevation
+ (from 2 ft contours):	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):
+Distance to Original Flood Inundation Boundary (ft):
+Distance to Original Debris Line (ft):
+ACTION:
+EXPLANATION:  RLAC-03-07  3	Terrebonne	2.0	2	N/A			Extended mash areas polygon to point using pre-event imagery and contours.	Point is surrounded by undeveloped, swampy area.  This is an isolated WWL point and nearby HWMs are concentrated in area along highways/roadways since surrounding land is inaccessible.
+
+WWL Data Point:
+County:
+Surveyed Elevation (ft NAVD 88):	
+Data Point Ground Elevation
+ (from 2 ft contours):	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):
+Distance to Original Flood Inundation Boundary (ft):
+Distance to Original Debris Line (ft):
+ACTION:
+EXPLANATION:  RLAC-04-01  2	Calcasieu	14.6	20	10	1240	------	Designated as a WWL Data Point NUAR.	Point falls outside of the inundation polygon at an elevation that is greater than the flooding elevation.  It is suspected that flooding in the area was due to the lack of drainage.  The point should not have been designated as a WWL point.
+
+WWL Data Point:
+County:
+Surveyed Elevation (ft NAVD 88):	
+Data Point Ground Elevation
+ (from 2 ft contours):	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):
+Distance to Original Flood Inundation Boundary (ft):
+Distance to Original Debris Line (ft):
+ACTION:
+EXPLANATION:  RLAC-07-02  2	Calcasieu	6.7	7	6	450	------	No action.  	Point lies within the inundation polygon.   
+
+WWL Data Point:
+County:
+Surveyed Elevation (ft NAVD 88):	
+Data Point Ground Elevation
+ (from 2 ft contours):	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):
+Distance to Original Flood Inundation Boundary (ft):
+Distance to Original Debris Line (ft):
+ACTION:
+EXPLANATION:  RLAC-08-01	Calcasieu	8.2	6	10-14	280	------	Extend the inundation polygon by using 12- and 14-ft contours and aerial imagery.	Point falls within the inundation polygon.  Flaggers observations and imagery supports that flooding occurred further inland from the riverbank. 
+
+
+WWL Data Point:
+County:
+Surveyed Elevation (ft NAVD 88):	
+Data Point Ground Elevation
+ (from 2 ft contours):	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):
+Distance to Original Flood Inundation Boundary (ft):
+Distance to Original Debris Line (ft):
+ACTION:
+EXPLANATION:  RLAC-08-02	Calcasieu	7.8	8	8	390	------	No action.  	Point lies within the inundation polygon. Topography, flagger observations, and aerial imagery support that flooding went further inland.
+
+WWL Data Point:
+County:
+Surveyed Elevation (ft NAVD 88):	
+Data Point Ground Elevation
+ (from 2 ft contours):	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):
+Distance to Original Flood Inundation Boundary (ft):
+Distance to Original Debris Line (ft):
+ACTION:
+EXPLANATION:  RLAC-08-03	Calcasieu	7.8	8	6	57	------	No action.  	Point is within 200 ft of the inundation polygon.
+
+WWL Data Point:
+County:
+Surveyed Elevation (ft NAVD 88):	
+Data Point Ground Elevation
+ (from 2 ft contours):	
+Flood Elevation from Original Debris Line or Flood Inundation Boundary (from 2 ft contours):
+Distance to Original Flood Inundation Boundary (ft):
+Distance to Original Debris Line (ft):
+ACTION:
+EXPLANATION:
+
+
+
+
+
+
+
+
+RLAC-08-04	Calcasieu	8.4	9	10	100	------	No action.  	Point is within 200 ft of the inundation polygon.
+RLAC-08-07  1,2	Calcasieu	7.0	6	6	10550	------	Designated as a WWL Data Point NUAR.	No inundation polygon was shown in this area from aerial imagery photointerpretation.  No photos of site were available and the surveyed elevation was not consistent with points in surrounding area.
+RLAC-09-12	Cameron	4.9	2	2	140	------	No action.  	Point is within 200 ft of the inundation polygon.
+RLAC-09-14	Calcasieu	5.3	4	4	6000	------	No action.  	Point falls within the inundation polygon.  Flagger observations, photos, and imagery support that flooding went further inland.
+RLAC-09-15	Calcasieu	8.2	10	10	720	------	Flood polygon was extended to this point by following the 8- and 10-ft contours.	Flagger observations and imagery support that flooding went further inland from the tributary.
+RLAC-09-16	Calcasieu	8.5	6	6-8	6200	------	Extended the inundation polygon northward along the tributary to reach the point.	Flaggers noted a wrack line here. This area is flat and the imagery supports that the flooding went further inland from the tributary.
+RLAC-09-18	Calcasieu	9.2	10	10~12	3200	------	Extended the inundation polygon northwestward to reach up this point using imagery as guide. 	Flaggers noted a wrack line here. This area is very flat and the imagery supports that flooding occurred further inland.
+RLAC-09-27	Calcasieu	9.9	9	9	4	------	No action.  	Point falls within 200 ft of inundation area.  Flagger notes that point was taken on the roadway, which is a high point in the area, so flooding would have also occurred at lower points north of the road.
+RLAC-09-41  2	Calcasieu	14.2	16	14	12,470	------	Extended inland flood polygon north around stream channel by following the 14-ft contour.	No inundation polygon was shown in this area from aerial imagery photointerpretation.  Flagger forms and photos indicate there was flooding here.
+RLAC-09-42  2	Calcasieu	23.5	28	18	9,650	------	Designated as a WWL Data Point NUAR.	Point falls outside of the inundation polygon at an elevation that is greater than the flooding elevation. Ponding due to poor drainage is suspected as cause for the observed HWM.  Point should not have been designated as a WWL point.
+RLAC-09-43  2	Calcasieu	21.7	22	24	72	------	Designated as a WWL Data Point NUAR.	Point falls outside of the inundation polygon, which is not in close proximity to a coastal drainage area. Ponding due to poor drainage is suspected as cause for the observed HWM.  Point should not have been designated as a WWL point.
+RLAC-09-44  2	Calcasieu	35.3	38	32	10,800	------	Designated as a WWL Data Point NUAR.	Point falls outside of the inundation polygon, which is not in close proximity to a coastal drainage area. Ponding due to poor drainage is suspected as cause for the observed HWM.  Point should not have been designated as a WWL point.
+RLAC-09-45  2	Calcasieu	32.8	33	10	60,000	------	Designated as a WWL Data Point NUAR.	Point falls outside of the inundation polygon at an elevation that is greater than the flooding elevation.  Ponding due to poor drainage is suspected as cause for the observed HWM.  Point should not have been designated as a WWL point.
+RLAC-10-02	Calcasieu	8.2	10	6	0	------	Created a "dry" area on island using aerial photos.	Point falls within inundation polygons.  The wrack line was located on an island inside the river channel. The higher ground of this island beyond this point was not flooded.
+RLAC-10-16	Cameron	4.7	4	4	64	------	No action.  	Point is within 200 ft of the inundation polygon.
+RLAC-11-24	Vermilion	8.0	no contours available	N/A			Extended inland flood polygon from RLAC 3-01 using 6 and 8ft contours.  	No inundation polygon was shown in this area from aerial imagery photointerpretation.  Flagger form and photos indicate there was flooding: "water stopped in area; some homes flooded."
+RLAC-12-06  2	Calcasieu	9.0	7	8	30	------	No action.  	Point is within 200ft from the inundation polygon.
+RLAC-13-03	St. Tammany	8.2	8	N/A			See note for RLAC-13-15. Added debris line between RLAC 13-03 and RLAC 13-06 using 6-ft contour.	WWL points from RLAC-13-03 to RLAC-13-08 form a good inundation boundary for flooding caused by Lake Pontchartrain. 
+RLAC-13-04	St. Tammany	6.6	6	N/A			See note for RLAC-13-03. 	see note for RLAC-13-03. 
+RLAC-13-05	St. Tammany	6.0	4	N/A			See note for RLAC-13-03. 	see note for RLAC-13-03. 
+RLAC-13-06	St. Tammany	5.0	2	N/A			See note for RLAC-13-03. From RLAC-13-06 to RLAC-13-07, added WWL using 4-ft and 6-ft contours.	see note for RLAC-13-03. 
+RLAC-13-07	St. Tammany	5.3	2	N/A			Added WWL between RLAC-13-06 and RLAC13-08 using 4-ft and 6-ft contours.	see note for RLAC-13-03. 
+RLAC-13-08	St. Tammany	6.1	6	N/A			See note for RLAC-13-07.	see note for RLAC-13-03. 
+RLAC-13-15	St. Tammany	7.2	8	N/A			Added WWL between RLAC-13-03 and RLAC-13-15 using 6 and 8 ft contours.	No existing inundation polygon in this area. A series of HWMs and WWLs which were surveyed around Lake Pontchartrain form a good wind water line. 
+RLAC-14-13	Vermilion	10.9	10	N/A			No action.  	Point falls inside of the inundation polygon that has RLAC-03-04 on the boundary.
+RLAC-14-23  3	Orleans	5.6	2	N/A			No action.  	There are no other WWL points south of Lake Pontchartrain since this whole area was heavily flooded by Hurricane Katrina. Flaggers noted a  broken levee, which was possibly from Hurricane Katrina. 
+RLAC-15-14  3	Lafourche	6.3	2	N/A			Designated as a WWL Data Point NUAR.	Point located in undeveloped, swampy area.   Nearby HWM points are concentrated in areas along highways/roadways. Point is a wrack line caught on fence (6' depth) and should not have been designated as a WWL.
+RLAC-15-15  3	Lafourche	5.8	no contour available	N/A			Designated as a WWL Data Point NUAR.	Point located along highway surrounded by undeveloped, swampy area.  Point is a wrack line caught on fence (2' 7" to grade)- and should not have been designated as a WWL.
+RLAC-15-16  3	Lafourche	6.4	no contour available	N/A			Designated as a WWL Data Point NUAR.	Point is surrounded by undeveloped, swampy area.  Point is a wrack line caught on a fence (5'2" to grade) and should not be designated as WWL.
+RLAC-15-17  3	Lafourche	5.9	6	N/A			Extended marsh polygon to this point.	Point is surrounded by inaccessible, undeveloped, swampy area.  Nearby HWMs are concentrated along highway.
+RLAC-17-14	Plaquemines	1.2	2	N/A			Created new inland flood polygon extending from RLAC 17-09 to RLAC 13-01 using HWY 23 and marsh area polygon as boundary.	There was no existing inundation polygon in this area. A series of HWMs and WWLs, which were surveyed along State Highway 23, form a good wind water line. Water overtopped the levee but was stopped from spreading further inland by State Hwy 23. 
+RLAC-17-17	Plaquemines	1.2	2	N/A			Created new inland flood polygon extending from RLAC 17-09 to RLAC 13-01 using HWY 23 and marsh area polygon as boundary.	There was no existing inundation polygon in this area. A series of HWMs and WWLs, which were surveyed along State Highway 23, form a good wind water line. Water overtopped the levee but was stopped from spreading further inland by State Hwy 23. 
+RLAC-18-09	St. Mary	11.9		N/A			Designated as a WWL Data Point NUAR.	Point is a water line with a vertical distance to HWM of 9 feet. Other WWL points are further inland.  This point should not have been designated as a WWL point.
+RLAR-02-03  2	Jefferson Davis	22.7	28	N/A			Designated as a WWL Data Point NUAR.	Point is far away from existing inundation polygon and coast and is also isolated from other points. Point was taken at a bridge and the flooding only reached up to the river bank. 
+RLAR-02-05  2	Calcasieu	5.8	2	2	1,050	------	Designated as a WWL Data Point NUAR.	Point fall inside of inundation area. Flaggers notes wrack line here and the flood depth at point is 5.8 ft. This is flat area so the flooding could have gone 1000 ft inland. Point should not have been designated as a WWL point. 
+RLAR-09-19	Calcasieu	12.3	14	2	15,000	------	Designated as a WWL Data Point NUAR.	The point is far away from existing inundation polygons and coast and is also isolated from other points. Flaggers noted wrack line here, which probably was caused by poor drainage.  
+RLAR-12-09	Vermilion	9.8	10	N/A			Extended inland flood polygon from RLAC 1-03 using 10-ft contours around tributary.	Flooding occurred along tributary as indicated in flagger form and photos.  Flooding consistent with nearby HWMs RLAR-12-07 and RLAR-12-08.
+RLAR-15-02  2	Livingston	4.1	2	N/A			Created inland flood polygon starting at RLAC 13-15 and connecting  RLAR 15-02 to RLR1 15-06.	As this point is on a tributary of a lake, the area has a low elevation and includes undeveloped marshland.  Flaggers noted this the point as a water line with a vertical distance to HWM of  0.5 ft. 
+RLAR-15-03  2	Livingston	3.1	22	N/A			Designated as a WWL Data Point NUAR.	Flaggers noted this point as a water line with a vertical distance to HWM as 4.5 ft.  Point is at an elevation that is greater than the flooding elevation.  Poor drainage is suspected to be the cause of the observed HWM.  Point should not have been designated as a WWL. 
+RLAR-15-04  2	Livingston	4.2	2	N/A			Designated as a WWL Data Point NUAR.	Point is in a very low area, just 0-2 ft from a canal.  Flaggers noted this as a water line with a vertical distance to HWM of 1.7 ft.  Point should not have been designated as a WWL.  
+RLAR-15-06	St. Mary	5.7	6	N/A			Extended inland flood polygon to point using 6-ft contours and river boundaries.	Area has low elevations and includes undeveloped marshland. Flaggers noted this as a wrack line. Topography leads to the conclusion that this area should be included in the inundation polygon.  
+RLAR-15-08	St. Mary	3.5	4	N/A			Extended inland flood polygon to point using 6-ft contours and river boundaries.	Area has low elevations and includes undeveloped marshland. Flaggers noted this as a wrack line. Topography leads to the conclusion that this area should be included in the inundation polygon.  
+RLAR-15-09  2	Assumption	2.9	2	N/A			Designated as a WWL Data Point NUAR.	The surrounding area has low elevations and contains undeveloped marshland.  Although the land is very flat, the point is a considerable distance from the coast line and the observed wrack line is likely the result of drainage.  The point should not have been marked as a WWL.  No photos of site were available.  
+RLAR-15-10  2	St. Martin	3.9	4	N/A			Designated as a WWL Data Point NUAR.	Area has low elevations and contains undeveloped marshland.  Flaggers noted this as a wrack line.  Although land is very flat, point is a considerable distance from the coast line and is likely the result of poor drainage.  Point should not have been designated as a WWL.  
+RLAR-15-11	Assumption	2.7	2	N/A			Extended inland flood polygon to point using 6 foot contours and river boundaries.  	Area has low elevations and includes a lake, a canal, and undeveloped marshland. The proximity and flatness of the surrounding land indicate that this area should be included in the inundation polygon or the swamp polygon.  No photos of this site were available.  
+RLAR-15-12  3	St. Charles	2.8	2	N/A			No action.  	There was no existing inundation polygon in this area.  The point is isolated from other points and flagger photos indicate flooding did not overtop bulkhead.
+RLAR-20-11  2	St. Tammany	6.9	10	N/A			Designated as a WWL Data Point NUAR.	There is no existing inundation polygon in this area. Flaggers noted that the flood source is Pearl Rive, but point is isolated from other points.
+RLR1-15-06  2	Livingston	5.2	4	N/A			Extended inland flood polygon to point using 6-ft contours and river boundaries.	As this point is near the lake, the surrounding area has a low elevation and includes undeveloped marshland.  Flaggers noted this as a water line with a vertical distance to HWM of 1.5 ft.  
+								
+								
+								
+CHWM's RLAC-11-21, 11-22, 11-23, 11-33, 11-27, and 11-25	Vermillion		6-8 ft	N/A			Extended debris line to follow CHWMs along State Highway 82 (approx 6-8' contour).	Flaggers found wrack and mud lines along Hwy 82 (road has a higher elevation than the surrounding area so it makes sense that debris would accumulate along the road). Land from coast to Hwy 82 is swampy, undeveloped area without access. 
+	
+
+
+Points Within 200 ft from Inundation Polygon - No Changes			
+
+ENG:  HZ
+WWL Point:  RLAC-10-16
+HWMADD:  1221 Highway 384, Lake Charles, LA
+State:  LA
+Longitude:  -93.176925
+
+ENG:  HZ				
+WWL Point:  RLAC-09-12
+HWMADD:  199 Johnny Benoit, Hackberry, LA
+State:  LA
+Longitude: -93.403823
+
+ENG:  CN				
+WWL Point:  RLAC-07-02
+HWMADD:  Sam Houston Jones State Park
+State:  LA
+Longitude: -93.26134
+
+
+ENG:  CN				
+WWL Point:  RLAC-12-06
+HWMADD:  2737 Sam Houston Jones State Parkway (378 Spur)
+State:  LA
+Longitude: -93.12144
+
+ENG:  CN				
+WWL Point:  RLAC-08-04
+HWMADD:  I-10 Exit 30A, I-10 service road
+State:  LA
+Longitude: -93.23512
+
+ENG:  CN				
+WWL Point:  RLAC-08-03
+HWMADD:  813 Shell Beach Drive
+State:  LA
+Longitude: -93.23512
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+				
+
+
+
+
+
