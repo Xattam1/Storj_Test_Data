@@ -1,0 +1,80 @@
+2017/09/27-13:03:48.568079 7faa2135c700 Delete type=3 #1
+2017/09/28-12:39:39.085903 7faa131d9700 Level-0 table #5: started
+2017/09/28-12:39:39.251115 7faa131d9700 Level-0 table #5: 182950 bytes OK
+2017/09/28-12:39:39.359188 7faa131d9700 Delete type=0 #3
+2017/09/28-12:39:39.359333 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/09/29-12:40:14.557771 7faa131d9700 Level-0 table #7: started
+2017/09/29-12:40:14.557794 7faa131d9700 Level-0 table #7: 0 bytes OK
+2017/09/29-12:40:14.697340 7faa131d9700 Delete type=0 #4
+2017/09/29-12:40:14.697592 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/09/29-12:40:14.697615 7faa131d9700 Manual compaction at level-1 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/09/30-12:40:35.634844 7faa131d9700 Level-0 table #9: started
+2017/09/30-12:40:35.634866 7faa131d9700 Level-0 table #9: 0 bytes OK
+2017/09/30-12:40:35.733505 7faa131d9700 Delete type=0 #6
+2017/09/30-12:40:35.733554 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/09/30-12:40:35.733577 7faa131d9700 Manual compaction at level-1 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/01-12:40:57.276425 7faa131d9700 Level-0 table #11: started
+2017/10/01-12:40:57.276446 7faa131d9700 Level-0 table #11: 0 bytes OK
+2017/10/01-12:40:57.343485 7faa131d9700 Delete type=0 #8
+2017/10/01-12:40:57.343539 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/01-12:40:57.343563 7faa131d9700 Manual compaction at level-1 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/02-12:41:17.304320 7faa131d9700 Level-0 table #13: started
+2017/10/02-12:41:17.304339 7faa131d9700 Level-0 table #13: 0 bytes OK
+2017/10/02-12:41:17.454349 7faa131d9700 Delete type=0 #10
+2017/10/02-12:41:17.454406 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/02-12:41:17.454429 7faa131d9700 Manual compaction at level-1 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/03-12:41:38.396157 7faa131d9700 Level-0 table #15: started
+2017/10/03-12:41:38.396333 7faa131d9700 Level-0 table #15: 0 bytes OK
+2017/10/03-12:41:38.512967 7faa131d9700 Delete type=0 #12
+2017/10/03-12:41:38.513021 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/03-12:41:38.513045 7faa131d9700 Manual compaction at level-1 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/04-12:42:06.115237 7faa131d9700 Level-0 table #17: started
+2017/10/04-12:42:06.115257 7faa131d9700 Level-0 table #17: 0 bytes OK
+2017/10/04-12:42:06.306948 7faa131d9700 Delete type=0 #14
+2017/10/04-12:42:06.307012 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/04-12:42:06.307036 7faa131d9700 Manual compaction at level-1 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/05-12:42:27.084173 7faa131d9700 Level-0 table #19: started
+2017/10/05-12:42:27.084193 7faa131d9700 Level-0 table #19: 0 bytes OK
+2017/10/05-12:42:27.151258 7faa131d9700 Delete type=0 #16
+2017/10/05-12:42:27.151324 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/05-12:42:27.151349 7faa131d9700 Manual compaction at level-1 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/06-12:42:45.591746 7faa131d9700 Level-0 table #21: started
+2017/10/06-12:42:45.591766 7faa131d9700 Level-0 table #21: 0 bytes OK
+2017/10/06-12:42:45.700298 7faa131d9700 Delete type=0 #18
+2017/10/06-12:42:45.700349 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/06-12:42:45.700372 7faa131d9700 Manual compaction at level-1 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/07-12:43:04.545524 7faa131d9700 Level-0 table #23: started
+2017/10/07-12:43:04.545544 7faa131d9700 Level-0 table #23: 0 bytes OK
+2017/10/07-12:43:04.612604 7faa131d9700 Delete type=0 #20
+2017/10/07-12:43:04.612667 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/07-12:43:04.612690 7faa131d9700 Manual compaction at level-1 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/08-12:43:21.348551 7faa131d9700 Level-0 table #25: started
+2017/10/08-12:43:21.348572 7faa131d9700 Level-0 table #25: 0 bytes OK
+2017/10/08-12:43:21.374136 7faa131d9700 Delete type=0 #22
+2017/10/08-12:43:21.374186 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/08-12:43:21.374208 7faa131d9700 Manual compaction at level-1 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/09-12:43:37.685299 7faa131d9700 Level-0 table #27: started
+2017/10/09-12:43:37.685321 7faa131d9700 Level-0 table #27: 0 bytes OK
+2017/10/09-12:43:37.793822 7faa131d9700 Delete type=0 #24
+2017/10/09-12:43:37.793877 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/09-12:43:37.793901 7faa131d9700 Manual compaction at level-1 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/10-12:43:53.225215 7faa131d9700 Level-0 table #29: started
+2017/10/10-12:43:53.225390 7faa131d9700 Level-0 table #29: 0 bytes OK
+2017/10/10-12:43:53.333761 7faa131d9700 Delete type=0 #26
+2017/10/10-12:43:53.333815 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/10-12:43:53.333839 7faa131d9700 Manual compaction at level-1 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/11-12:44:07.030633 7faa131d9700 Level-0 table #31: started
+2017/10/11-12:44:07.030653 7faa131d9700 Level-0 table #31: 0 bytes OK
+2017/10/11-12:44:07.139196 7faa131d9700 Delete type=0 #28
+2017/10/11-12:44:07.139251 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/11-12:44:07.139275 7faa131d9700 Manual compaction at level-1 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/12-12:44:20.967148 7faa131d9700 Level-0 table #33: started
+2017/10/12-12:44:20.967170 7faa131d9700 Level-0 table #33: 0 bytes OK
+2017/10/12-12:44:21.016088 7faa131d9700 Delete type=0 #30
+2017/10/12-12:44:21.016139 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/12-12:44:21.016162 7faa131d9700 Manual compaction at level-1 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/13-12:44:35.498935 7faa131d9700 Level-0 table #35: started
+2017/10/13-12:44:35.498956 7faa131d9700 Level-0 table #35: 0 bytes OK
+2017/10/13-12:44:35.607501 7faa131d9700 Delete type=0 #32
+2017/10/13-12:44:35.607556 7faa131d9700 Manual compaction at level-0 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
+2017/10/13-12:44:35.607581 7faa131d9700 Manual compaction at level-1 from '0' @ 72057594037927935 : 1 .. 'z' @ 0 : 0; will stop at (end)
