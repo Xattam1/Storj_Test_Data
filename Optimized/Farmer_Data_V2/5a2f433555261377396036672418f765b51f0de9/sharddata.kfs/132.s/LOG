@@ -1,0 +1,8 @@
+2017/11/13-12:23:26.977204 7fcb3f7fe700 Delete type=3 #1
+2017/11/13-12:32:16.086321 7fcb3e5e1700 Level-0 table #5: started
+2017/11/13-12:32:16.144881 7fcb3f7fe700 Current memtable full; waiting...
+2017/11/13-12:32:16.222140 7fcb3e5e1700 Level-0 table #5: 4315108 bytes OK
+2017/11/13-12:32:16.277475 7fcb3e5e1700 Delete type=0 #3
+2017/11/13-12:32:16.278548 7fcb3e5e1700 Level-0 table #7: started
+2017/11/13-12:32:16.536435 7fcb3e5e1700 Level-0 table #7: 4207391 bytes OK
+2017/11/13-12:32:16.587723 7fcb3e5e1700 Delete type=0 #4
