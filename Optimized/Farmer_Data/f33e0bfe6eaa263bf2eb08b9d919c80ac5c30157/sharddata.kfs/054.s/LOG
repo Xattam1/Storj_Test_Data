@@ -1,8 +1,0 @@
-2017/10/28-20:59:23.742757 7fda5638c700 Delete type=3 #1
-2017/10/28-21:20:30.076004 7fda3f9da700 Level-0 table #5: started
-2017/10/28-21:20:30.151406 7fda5538a700 Current memtable full; waiting...
-2017/10/28-21:20:30.337013 7fda3f9da700 Level-0 table #5: 4318480 bytes OK
-2017/10/28-21:20:30.420070 7fda3f9da700 Delete type=0 #3
-2017/10/28-21:20:30.420764 7fda3f9da700 Level-0 table #7: started
-2017/10/28-21:20:30.628617 7fda3f9da700 Level-0 table #7: 4207391 bytes OK
-2017/10/28-21:20:30.710987 7fda3f9da700 Delete type=0 #4
